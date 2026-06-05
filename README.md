@@ -2,134 +2,67 @@
 
 GrondToon is een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
-GrondToon ziet muziek als een krachtig instrument voor persoonlijke vorming en maatschappelijke verbondenheid. Leerlingen worden uitgenodigd hun innerlijke bron van expressie te onderzoeken en die creatief om te zetten in geluid, zang en compositie; techniek staat ten dienste van betekenis, niet als doel op zich. Door methodes als **improvisatie**, **songwriting**, **stemexpressie**, en het integreren van **natuurgeluiden** ontstaat een veilige, onderzoekende leeromgeving waarin zelfontdekking, emotionele reflectie en veerkracht centraal staan. In groepsvormen bevordert het proces empathie, luistervaardigheid en samenwerking; in individuele trajecten groeit autonomie, artistieke keuzevrijheid en zelfvertrouwen. GrondToon stimuleert leerlingen om verantwoordelijkheid te nemen voor hun creatieve proces, te experimenteren en buiten hun **comfortzone** te treden, en daarmee niet alleen muzikale vaardigheden te ontwikkelen maar ook sociale competenties en een dieper gevoel van verbondenheid met zichzelf, anderen en de natuurlijke wereld.
+![Een foto van Kayleigh Beard met leerlingen buiten met muziekinstrumenten](assets/images/grondtoon-header.jpg)
 
-GrondToon bestaat uit de volgende onderdelen:
+#### Inleiding
+GrondToon is een brede, **holistische benadering** van muziekleren, waarbij niet alleen technische vaardigheden (zoals noten lezen, instrument bespelen of zingen) centraal staan, maar ook emotionele, cognitieve, fysieke en zelfs spirituele aspecten van muziek worden meegenomen. Bij GrondToon werken leerlingen aan hun eigen **muzikale expressie**. In tegenstelling tot traditionele methodes, staat de **persoonlijke bron van creativiteit** van elke leerling centraal, en niet enkel de **muzikale vaardigheden**. Een ander uniek aspect is het integreren van **natuurgeluiden** en daarmee de **verbinding met de wereld** om ons heen. Het product dat is voortgevloeid uit dit ontwikkeltraject is de **GrondToon Klankbox**, een combinatie van digitale en fysieke materialen, die door diverse scholen kunnen worden gebruikt om dit project neer te zetten.
 
-- Leskit <a href="#stemexpressie">Natuurbeats</a>
-- Leskit <a href="#stemexpressie">Maak je eigen lied (kaartenset)</a>
+#### Eigen beleving en creativiteit
+Wat GrondToon anders maakt, is de focus op **intrinsieke motivatie**, **persoonlijke creativiteit** en het uiten van de **innerlijke wereld**. Dit betekent dat muziek niet alleen als technisch vak wordt benaderd, maar als een middel om persoonlijke gevoelens en ideeën te uiten. Hierbij staan hun eigen beleving en **innerlijk lied** centraal, wat bijdraagt aan een diepgaande persoonlijke ontwikkeling die verder reikt dan enkel muzikale vaardigheden. 
+
+Door middel van het **schrijven van eigen liedjes** ontdekken en ontwikkelen leerlingen hun muzikale en persoonlijke potentieel. We onderzoeken hoe gevoelens, gedachten en ideeën muzikaal kunnen worden vertaald. We spelen, zingen en luisteren ook naar bestaande muziek, waarbij we samen de betekenis ervan ontdekken, zowel op persoonlijk vlak als vanuit een taalkundig perspectief. Naast de Nederlandse taal zijn ook andere talen hier onderdeel van, waardoor er binnen muzikale ontwikkeling ook **vakoverstijgend** gewerkt wordt. 
+
+#### Natuurgeluiden
+Een ander uniek aspect van GrondToon is het integreren van natuurgeluiden in muziekcreaties. Hierdoor leren ze niet alleen muzikale vaardigheden, maar ook om bewust te worden van hun omgeving en de **verbinding met de natuur**. Dit proces stimuleert een diepere verbinding met de wereld om hen heen en inspireert **creativiteit op een organische manier**.
+
+De visie van de school benadrukt de intrinsieke waarde van muziek maken, waarbij verbinding centraal staat: verbinding met zichzelf, met anderen en met de natuurlijke omgeving. Het opnemen en verwerken van natuurgeluiden versterkt deze verbinding en creëert een leeromgeving waarin leerlingen hun creativiteit volledig kunnen ontplooien en waar gemeenschapsgevoel wordt versterkt.
+
+#### De GrondToon Klankbox
+Het ontdekken, voelen en laten horen van de innerlijke grondtoon is de kern van wat ik met GrondToon wil uitdragen. Dit project heeft geresulteerd in de **GrondToon Klankbox**, een combinatie van digitale en fysieke materialen, instructies, en inspirerende voorbeelden van het GrondToon project. 
+
+De **GrondToon Klankbox** bestaat uit de volgende onderdelen:
+
+- Leskit <a href="#natuurbeats">Natuurbeats</a>
+- Leskit <a href="#stemexpressie">Innerlijk Lied</a>
 - Leskit <a href="#stemexpressie">Stemexpressie</a>
 - Leskit <a href="#stemexpressie">Intuitief Improviseren</a>
-- Fysiek: de <a href="#stemexpressie">GrondToon Klankbox</a>
 - Extra: <a href="#stemexpressie">Bewegen op Muziek</a>
-
-<div style="position: relative; padding-top: 56.25%;"><iframe title="More Piano practice in college." width="100%" height="100%" src="https://peertube.tv/videos/embed/7TUrPygeZRKxECxKQAYoo9" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
-
-
 
 ---
 
 ## Natuurbeats
 
-#### Doel
-Versterken van luisterend vermogen en verbondenheid met de natuurlijke omgeving; verzamelen en transformeren van natuurgeluiden tot ritmische en texturale beats; ontwikkelen van technische sampling‑vaardigheden en creatieve productiekeuzes. Natuurbeats combineert deze doelen in één ervaringsgericht traject: vanuit aandachtig buitenluisteren nemen leerlingen geluiden op en vertale n die in de studio tot muzikale elementen, waarbij bewerking (trimmen, pitchen, time‑stretch) functioneert als middel om de oorspronkelijke ervaring te versterken. Zo ontstaat niet alleen muzikale groei — beter ritmegevoel, arrangement- en productiekennis — maar ook een verdiept ecologisch bewustzijn, creatief zelfvertrouwen en samenwerkingsvaardigheden; toevalligheden en imperfecties worden daarbij expliciet als expressiemiddelen gewaardeerd.
+![Natuurbeats](./assets/images/natuurbeats.jpg)
 
-#### Benodigdheden
-- Draagbare recorders of smartphones met opname‑app
-- Windschermen/foam (optioneel)
-- Laptop/tablet per duo of klein groepje met DAW (bijv. Ableton)
-- Hoofdtelefoons, aansluitkabels
-- Notitieformulieren voor opnamebeschrijving
+De leskit Natuurbeats is een creatief en holistisch muziekproject voor leerlingen van 8-14 jaar, gericht op het **verbinden met de natuur**, muziek en aandachtig luisteren. Gedurende vier lessen leren leerlingen niet alleen **muzikale ritmes** en het gebruik van een **DAW** (Digital Audio Workstation, zoals Ableton), maar ook om met volle **aandacht** de natuur in te gaan, **natuurgeluiden** op te nemen en deze om te zetten in **unieke beats**. Door stil te staan in de natuur, geluiden bewust op te nemen en deze vervolgens creatief te bewerken, ontdekken ze hoe muziek en omgeving met elkaar verweven zijn. Het project stimuleert niet alleen technisch en muzikaal ritmisch inzicht, maar ook een diepere **verbinding** met de wereld om hen heen, waarbij **creativiteit** en **samenwerking** centraal staan.
 
-#### Tijdsplanning (3–4 lessen)
-- Les 1 (buiten): Luisteroefening & veldopname (60–75 min)
-- Les 2 (binnen): Selectie & reflectie, import in DAW (50–60 min)
-- Les 3 (binnen): Sampling & beat‑bouw (50–75 min)
-- Les 4 (optioneel): Finaliseren, delen en reflectie (50 min)
-
-#### Lesstappen
-Les 1 — Luisteren en opnemen (buiten)
-Intro (5–10 min): korte inleiding over de natuur als muzikale bron; aandacht voor luisteren als actieve compositietechniek.
-Luisteroefening (5 min): stil staan, ogen dicht, geluiden noteren.
-Opdracht opname (35–50 min): per leerling/groep 6–12 korte opnames (3–20 s) van diverse natuurgeluiden. Vul per opname het notitieformulier in: tijd, locatie, klankkarakter (ritme, timbre, dynamiek), mogelijke muzikale toepassing.
-Les 2 — Selectie & analytisch luisteren (binnen)
-Luisterronde (10–15 min): gezamenlijk beluisteren van alle opnames.
-Selectieopdracht (15–20 min): kies 6–8 bruikbare samples; noteer waarom (ritmisch, textuur, emotie).
-Reflectievragen (10 min): welk geluid voelt ritmisch, welke textuur kan als baslaag dienen, welke opname roept een specifieke sfeer op?
-Les 3 — Sampling en beat‑creatie (binnen, DAW)
-Import & voorbereiding (10–15 min): trimmen, normaliseren, fades.
-Basisbewerking (15–25 min): pitchen, time‑stretch, reverse, filtering; maak een samplekit of sliced loop.
-Beat‑bouw (20–30 min): programmeer een ritme met geselecteerde samples; voeg texturen/ambient lagen toe; experimenteer met effecten (reverb, delay, distortion) als expressiemiddel.
-Tussentijdse playbacks en korte peerfeedback (10–15 min).
-Les 4 — Finaliseren & delen (optioneel)
-Finetunen (20–30 min): dynamiek, arrangement, overgangen.
-Presentatie (15–20 min): ieder groepje speelt of laat een korte track horen.
-Reflectie (10–15 min): schrijf kort antwoord op: wat veranderde je manier van luisteren? Welke keuzes versterkten de natuurconnectie?
-Differentiatie & didactische notities
-Beginners: focus op één sample bewerken en een eenvoudige 4‑bar loop maken.
-Gevorderden: gebruik slicing, granulatie of maak een polyritmische beat; verken resampling en layering.
-Anti‑perfectionisme: stimuleer ruwe bewegingen—onverwachte artefacten en imperfecties worden als creatieve opties gepresenteerd.
-Koppeling: bewaar samples voor gebruik in songwriting‑ of improvisatiesessies binnen GrondToon.
-Voorbeeldopdrachten / kaartjes
-Luisterkaart: “Vind een geluid met een duidelijk ritme en bouw daar je kick‑pattern omheen.”
-Textuurkaart: “Maak van een zachte ritsel‑opname een lage, pulserende pad door te pitch‑shiften en te filteren.”
-Spanningskaart: “Laat een sample langzaam verkrappen (time‑stretch) en gebruik dit als overgang naar een nieuwe sectie.”
-Anti‑perfectiekaart: “Gebruik een onbewerkte, ruisende opname als percussielaag.”
-#### Opbrengst & toetsing
-Product: per leerling/groep 1–2 korte natuurbeat‑tracks + opname‑logboek.
-Observatiecriteria: duidelijk onderscheid in luisterkwaliteit, creatieve toepassing van samples, samenwerking en experimentgedrag.
-Doorwerking: samples en projecten zijn herbruikbaar in songwriting, improvisatie en presentatieonderdelen van GrondToon.
-#### Visieverbinding
-Natuurbeats koppelt directe natuurervaring aan muzikale creatie: leerlingen leren luisteren, betekenis geven en een persoonlijke relatie met hun omgeving omzetten in geluid en ritme — een praktijk van aandacht, creativiteit en verbondenheid.
-
-<br>
-<br>
+Zie hier de volledige leskit: [Leskit Natuurbeats](./PAGE-Natuurbeats.html).
 
 ---
 
-<br>
-<br>
 
-
-## Maak je eigen lied (kaartenset)
-
-<br>
-<br>
+## Innerlijk Lied
 
 ---
 
-<br>
-<br>
 
 ## Stemexpressie
 
-<br>
-<br>
-
 ---
 
-<br>
-<br>
 
 ## Intuitief Improviseren
 
-<br>
-<br>
-
 ---
 
-<br>
-<br>
 
 ## GrondToon Klankbox
 
-<br>
-<br>
-
 ---
-
-<br>
-<br>
 
 ## Bewegen op muziek
 
-<br>
-<br>
-
 ---
-
-<br>
-<br>
 
 ## Over mij
 
