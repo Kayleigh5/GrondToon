@@ -3,9 +3,27 @@
 
 @import 'jekyll-theme-leap-day';
 
+// body {
+//     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// }
+
 header {
-    background: url(../images/gras.jpg);
-    background-size: 200%;
+    background: url(../images/grondtoon-header.jpg);
+    background-size: 8000vmax;
+    animation: move-bg 3000s linear infinite;
+    image-rendering: pixelated;
+    border-bottom: 5px solid #fc0;
+    cursor: pointer;
+    height: 90px;
+}
+
+@keyframes move-bg {
+  from {
+    background-position: 0% 0%;
+  }
+  to {
+    background-position: 100% 0%;
+  }
 }
 
 header h1 {
@@ -18,20 +36,42 @@ header p {
     margin-top: 2px;
 }
 
+// #banner {
+//     display: none;
+// }
+
 #banner {
-    width: 100%;
+    background: transparent;
+    text-align: center;
+    border: none;
+    box-shadow: none;
+    right: 0;
+    margin-right: 0;
 }
 
-#banner #logo {
-    display: none;
+#banner ul {
+    float: unset;
 }
 
-#banner .button {
-    display: none;
+
+#banner ul li a {
+    padding: 10px;
+    background: #fc0;
+    border-radius: 5px;
+    margin:5px;
+    color: black;
+}
+
+#banner ul li.active a {
+    background: #f0b500;
 }
 
 footer {
     display: none;
+}
+
+strong {
+  color: #f0b500;
 }
 
 // iframe {
@@ -39,12 +79,32 @@ footer {
 //     width: 100%;
 // }
 
+section {
+    margin-top: 175px;
+    border-radius: 8px;
+}
+
+@media print, screen and (max-width: 1060px) {
+  section {
+    margin-top: 175px;
+    padding: 30px 30px 50px 30px;
+  }
+}
+
 @media print, screen and (max-width: 720px) {
+
+    header {
+        height: 90px;
+    }
+    
     header p { 
         display: block; 
         font-size: 14px;
     }
-    #banner {
-        top: 115px;
-     }
+
+  section {
+    margin-top: 150px;
+    padding: 15px 15px 25px 15px;
+  }
 }
+
