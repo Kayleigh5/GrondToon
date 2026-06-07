@@ -44,7 +44,7 @@ Zie hier de volledige leskit: [Leskit Natuurbeats](/leskit/natuurbeats.md).
 
 ![Twee gitaarspelende leerlingen, en twee zingende leerlingen](/assets/images/innerlijklied-nora.jpg)
 
-In mijn werk bij [Grond - school voor leven](https://grond-schoolvoorleven.nl/) kom ik regelmatig tegen hoe sterk **perfectionisme** leerlingen kan blokkeren: bij het schrijven van een eigen lied zijn er vaak volop ideeën, maar niets voelt goed of mooi genoeg om echt te delen. Met de leskit Innerlijk Lied ontdekken leerlingen dat muziek juist een plek is waar je **jezelf mag laten horen** — niet omdat het perfect moet zijn, maar omdat jouw binnenwereld ertoe doet. Ze leren eerst aandachtig luisteren naar bestaande liedjes om te voelen hoe structuur, sfeer en emotie samenwerken, verkennen daarna de **Innerlijk‑Lied‑kaartenset** die hen uitnodigt om hun eigen ervaringen, beelden en gevoelens te vertalen naar woorden, en geven die woorden vervolgens klank en vorm met stem of instrument. Met GrondToon Innerlijk Lied laat ik hun muzikale creativiteit stromen door een **speels** maar gestructureerd kader te bieden: door willekeurig kaarten te trekken — onderwerp, symboliek, sfeer, muzikaal kader en eventueel een anti‑perfectionisme‑kaart — ontstaat een unieke creatieve opdracht die hen helpt 4–12 regels spoken word of zang te maken. De kaarten fungeren als zachte duwtjes richting **expressie**, terwijl leerlingen expliciet leren dat imperfecties geen fout zijn maar een **waardevolle artistieke keuze**. Zo ervaart elke leerling dat hun innerlijke wereld het waard is om gehoord te worden.
+In mijn werk bij [Grond - school voor leven](https://grond-schoolvoorleven.nl/) kom ik regelmatig tegen hoe sterk **perfectionisme** leerlingen kan blokkeren: bij het schrijven van een eigen lied zijn er vaak volop ideeën, maar niets voelt goed of mooi genoeg om echt te delen. Met de leskit Innerlijk Lied ontdekken leerlingen dat muziek juist een plek is waar je **jezelf mag laten horen** - niet omdat het perfect moet zijn, maar omdat jouw binnenwereld ertoe doet. Ze leren eerst aandachtig luisteren naar bestaande liedjes om te voelen hoe structuur, sfeer en emotie samenwerken, verkennen daarna de **Innerlijk‑Lied‑kaartenset** die hen uitnodigt om hun eigen ervaringen, beelden en gevoelens te vertalen naar woorden, en geven die woorden vervolgens klank en vorm met stem of instrument. Met GrondToon Innerlijk Lied laat ik hun muzikale creativiteit stromen door een **speels** maar gestructureerd kader te bieden: door willekeurig kaarten te trekken - onderwerp, symboliek, sfeer, muzikaal kader en eventueel een anti‑perfectionisme‑kaart - ontstaat een unieke creatieve opdracht die hen helpt 4–12 regels spoken word of zang te maken. De kaarten fungeren als zachte duwtjes richting **expressie**, terwijl leerlingen expliciet leren dat imperfecties geen fout zijn maar een **waardevolle artistieke keuze**. Zo ervaart elke leerling dat hun innerlijke wereld het waard is om gehoord te worden.
 
 Zie hier de volledige leskit: [Leskit Innerlijk Lied](/leskit/innerlijk_lied.md).
 
@@ -54,7 +54,7 @@ Zie hier de volledige leskit: [Leskit Innerlijk Lied](/leskit/innerlijk_lied.md)
 
 ![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie.jpg)
 
-De leskit **Stemexpressie** helpt leerlingen ontdekken hoe ze hun stem kunnen gebruiken als krachtig instrument voor **expressie**, **zelfvertrouwen** en **verbinding**. In tegenstelling tot traditionele zanglessen ligt de nadruk niet op “mooi zingen”, maar op **durven klinken**: stevig, zacht, kwetsbaar, speels, krachtig — wat er maar in hen leeft. Door middel van ademhalingsoefeningen, lichaamswerk, vocale warming‑ups en het zingen van mantra’s en zelfgekozen liedjes, ervaren leerlingen hoe hun stem verbonden is met hun lichaam, emoties en innerlijke wereld.
+De leskit **Stemexpressie** helpt leerlingen ontdekken hoe ze hun stem kunnen gebruiken als krachtig instrument voor **expressie**, **zelfvertrouwen** en **verbinding**. In tegenstelling tot traditionele zanglessen ligt de nadruk niet op “mooi zingen”, maar op **durven klinken**: stevig, zacht, kwetsbaar, speels, krachtig - wat er maar in hen leeft. Door middel van ademhalingsoefeningen, lichaamswerk, vocale warming‑ups en het zingen van mantra’s en zelfgekozen liedjes, ervaren leerlingen hoe hun stem verbonden is met hun lichaam, emoties en innerlijke wereld.
 
 Leerlingen leren:
 
@@ -64,7 +64,7 @@ Leerlingen leren:
 - hoe je **betekenis** geeft aan een liedtekst  
 - hoe je jezelf **durft** te laten horen, individueel of in een groep  
 
-Voor sommige leerlingen is dit spannend — en juist daarom is Stemexpressie een veilige, speelse en opbouwende methode die hen stap voor stap begeleidt naar meer **zelfvertrouwen** en innerlijke kracht. Het leren durven laten horen van je stem is niet alleen waardevol binnen muziek, maar ook daarbuiten: in gesprekken, presentaties, sociale situaties en in het aangeven van je grenzen. Wie zijn stem durft te gebruiken, staat steviger in het leven.
+Voor sommige leerlingen is dit spannend - en juist daarom is Stemexpressie een veilige, speelse en opbouwende methode die hen stap voor stap begeleidt naar meer **zelfvertrouwen** en innerlijke kracht. Het leren durven laten horen van je stem is niet alleen waardevol binnen muziek, maar ook daarbuiten: in gesprekken, presentaties, sociale situaties en in het aangeven van je grenzen. Wie zijn stem durft te gebruiken, staat steviger in het leven.
 
 Zie hier de volledige leskit: [Leskit Stemexpressie](/leskit/stemexpressie.md).
 
@@ -74,7 +74,7 @@ Zie hier de volledige leskit: [Leskit Stemexpressie](/leskit/stemexpressie.md).
 
 ![Foto van docent en leerling die piano spelen](/assets/images/intuitiefimproviseren.jpg)
 
-Intuïtief improviseren is een speelse, vrije en diep muzikale manier van leren. Waar bestaande stukken vaak veel **hoofdwerk** vragen — noten lezen, techniek, structuur — nodigt improvisatie leerlingen uit om te spelen vanuit **gevoel**, **intuïtie** en **aanwezigheid**.  
+Intuïtief improviseren is een speelse, vrije en diep muzikale manier van leren. Waar bestaande stukken vaak veel **hoofdwerk** vragen - noten lezen, techniek, structuur - nodigt improvisatie leerlingen uit om te spelen vanuit **gevoel**, **intuïtie** en **aanwezigheid**.  
 
 De docent speelt herhalende akkoorden of een eenvoudige groove, en de leerling laat daar een melodie over ontstaan. Soms wisselen docent en leerling van rol. In grotere groepen kunnen leerlingen ook **in duo’s** of **met de hele klas** improviseren, waarbij ze op elkaar reageren zonder woorden.
 
@@ -87,7 +87,7 @@ Improviseren vraagt om:
 
 Leerlingen ontdekken dat muziek een vorm van **communicatie** is: als iemand ineens heel zacht speelt, reageer je daarop; als iemand krachtig inzet, speel je mee of zet je daar iets tegenover. Zo leren ze niet alleen muzikaliteit, maar ook sociale vaardigheden zoals **afstemmen**, **assertiviteit**, **samenwerking** en **aanvoelen wat er nodig is**.
 
-Improvisatie is een waardevolle vaardigheid — niet alleen in muziek, maar ook in het leven. Het leert leerlingen flexibel zijn, risico’s nemen, creatief denken en vertrouwen op hun eigen innerlijke kompas.
+Improvisatie is een waardevolle vaardigheid - niet alleen in muziek, maar ook in het leven. Het leert leerlingen flexibel zijn, risico’s nemen, creatief denken en vertrouwen op hun eigen innerlijke kompas.
 
 Zie hier de volledige leskit: [Leskit Intuïtief Improviseren](/leskit/intuitief_improviseren.md).
 
@@ -97,7 +97,7 @@ Zie hier de volledige leskit: [Leskit Intuïtief Improviseren](/leskit/intuitief
 
 ![Foto van vijf leerlingen die buiten dansen](/assets/images/bewegenopmuziek.jpg)
 
-Bewegen op Muziek helpt leerlingen om **uit hun hoofd en in hun lijf** te komen. Door grote, aardse bewegingen op percussieve muziek — geïnspireerd door Afrikaanse dans — ervaren ze hoe ritme door het lichaam stroomt. De nadruk ligt op **gronding**, **kracht**, **ritmegevoel**, **expressie** en **vrij bewegen**.
+Bewegen op Muziek helpt leerlingen om **uit hun hoofd en in hun lijf** te komen. Door grote, aardse bewegingen op percussieve muziek - geïnspireerd door Afrikaanse dans - ervaren ze hoe ritme door het lichaam stroomt. De nadruk ligt op **gronding**, **kracht**, **ritmegevoel**, **expressie** en **vrij bewegen**.
 
 Dansen is niet alleen goed voor het lichaam, maar ook voor de hersenen: het vermindert stress, verbetert concentratie en versterkt lichaamsbewustzijn. In deze lessen leren leerlingen hoe beweging en muziek elkaar versterken, en hoe je via je lichaam emoties en energie kunt uitdrukken.
 
@@ -111,6 +111,6 @@ Zie hier de volledige leskit: [Leskit Bewegen op Muziek](/leskit/bewegen_op_muzi
 
 Hoi, ik ben Kayleigh Beard, woonachtig in Groningen. Naast mijn activiteiten in het onderwijs, ben ik multidisciplinair muzikant en solo artiest. Ik maak elektronische artpop en sta regelmatig op het podium. Luister eens naar mijn nieuwste album [Mutations](https://kayleigh-beard.ffm.to/mutations1){:target="_blank"} (2026).
 
-Of bekijk mijn [Website](https://kayleighbeard.nl/){:target="_blank"}, [Instagram](https://www.instagram.com/kayleigh.beard.music/){:target="_blank"}, of [Youtube](https://www.youtube.com/@KayleighBeard5){:target="_blank"}.
+Of bekijk mijn [Website](https://kayleighbeard.nl/){:target="_blank"}, [Instagram](https://www.instagram.com/kayleigh.beard.music/){:target="_blank"}, of [Youtube](https://www.youtube-nocookie.com/@KayleighBeard5){:target="_blank"}.
 
 Interesse in GrondToon op jouw school/organisatie? Neem contact op via mijn [contactpagina](https://kayleighbeard.nl/#contact). 
