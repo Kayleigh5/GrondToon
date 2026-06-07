@@ -1,3 +1,7 @@
+---
+order: 5
+---
+
 # Bewegen op Muziek
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 

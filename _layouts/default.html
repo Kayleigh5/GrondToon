@@ -43,7 +43,7 @@
               {%- endif %}
             {%- endif %}
           {%- endfor %}
-          {%- assign leskit_pages = leskit_pages | sort: 'title' %}
+          {%- assign leskit_pages = leskit_pages | sort: 'order' %}
           {%- if leskit_pages.size > 0 %}
             {%- assign is_leskit_active = false %}
             {%- for lp in leskit_pages %}
