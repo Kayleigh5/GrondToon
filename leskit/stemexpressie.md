@@ -32,6 +32,7 @@ Leerlingen leren:
 Voor sommige leerlingen is dit spannend - en juist daarom is Stemexpressie een veilige, speelse en opbouwende methode die hen stap voor stap begeleidt naar meer **zelfvertrouwen** en innerlijke kracht. Het leren durven laten horen van je stem is niet alleen waardevol binnen muziek, maar ook daarbuiten: in gesprekken, presentaties, sociale situaties en in het aangeven van je grenzen. Wie zijn stem durft te gebruiken, staat steviger in het leven.
 
 ![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie.jpg)
+
 ---
 
 ### 📌 Leerdoelen
