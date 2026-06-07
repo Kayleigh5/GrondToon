@@ -99,7 +99,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-### 🎵 Les 1: Ademhaling, Lichaam & Stem Durven Gebruiken
+### 🎵 Les 1: Ademhaling, lichaam & stem durven gebruiken
 
 **Doel:** Leerlingen ervaren hoe ademhaling, lichaam en stem samenwerken. Ze leren basis‑oefeningen en zingen gezamenlijk een eenvoudige mantra.
 
@@ -120,7 +120,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-### 🎤 Les 2: Liedkeuze, Betekenis & Eerste Uitvoering
+### 🎤 Les 2: Liedkeuze, betekenis & eerste uitvoering
 
 **Doel:** Leerlingen kiezen een lied, onderzoeken de betekenis en zingen een eerste versie.
 
@@ -141,7 +141,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-### 🎶 Les 3: Techniek & Variatie: Dynamiek, Resonantie, Kracht
+### 🎶 Les 3: Techniek & variatie: dynamiek, resonantie, kracht
 
 **Doel:** Leerlingen verdiepen hun stemgebruik en experimenteren met expressie.
 
@@ -162,7 +162,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-### 🎼 Les 4: Meerstemmigheid & Gehoor (gevorderd)
+### 🎼 Les 4: Meerstemmigheid & gehoor (gevorderd)
 
 **Doel:** Leerlingen trainen hun muzikaal gehoor én oefenen een eenvoudige meerstemmige passage. Ze leren bij hun eigen melodielijn blijven, ook wanneer anderen iets anders zingen.
 
@@ -197,7 +197,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-### 🎤 Les 5: Vrij Zingen & Experimenteren
+### 🎤 Les 5: Vrij vingen & experimenteren
 
 **Doel:** Leerlingen ontdekken nieuwe klankmogelijkheden en durven te spelen met hun stem.
 
@@ -213,7 +213,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-### 🎙️ Les 6: Presenteren & Reflecteren
+### 🎙️ Les 6: Presenteren & reflecteren
 
 **Doel:** Leerlingen presenteren hun lied en reflecteren op hun groei.
 

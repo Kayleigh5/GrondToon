@@ -122,11 +122,11 @@ Your browser does not support the audio element.
 
 ---
 
-### 🎵 Les 1: Luisteren naar Liedjes & Introductie Innerlijk Lied
+### 🎵 Les 1: Luisteren naar liedjes & introductie Innerlijk Lied
 
 **Doel:** Bewust leren luisteren naar bestaande liedjes én kennismaken met het concept Innerlijk Lied en de vijf kaartcategorieën.
 
-#### Onderdeel & Activiteit
+#### Onderdeel & activiteit
 
 | Onderdeel | Activiteit | Tijd | Werkvorm |
 |-----------|------------|------|----------|
@@ -144,7 +144,7 @@ Your browser does not support the audio element.
 
 ---
 
-### 🖋️ Les 2: Kaarten trekken & Tekst schrijven
+### 🖋️ Les 2: Kaarten trekken & tekst schrijven
 
 **Doel:** Leerlingen schrijven 4–12 regels spoken word of zang op basis van hun kaartcombinatie.
 
@@ -157,7 +157,7 @@ Elke leerling trekt:
 4. Muzikaal kader (optioneel voor beginners)  
 5. Anti‑perfectionisme (optioneel, of verplicht voor gevorderden)
 
-#### Onderdeel & Activiteit
+#### Onderdeel & activiteit
 
 | Onderdeel | Activiteit | Tijd | Werkvorm |
 |-----------|------------|------|----------|
@@ -179,7 +179,7 @@ Elke leerling trekt:
 
 **Doel:** De tekst krijgt een klankwereld: ritme, melodie, sfeer, instrument.
 
-#### Onderdeel & Activiteit
+#### Onderdeel & activiteit
 
 | Onderdeel | Activiteit | Tijd | Werkvorm |
 |-----------|------------|------|----------|
@@ -197,11 +197,11 @@ Elke leerling trekt:
 
 ---
 
-### 🎤 Les 4: Presenteren & Reflecteren
+### 🎤 Les 4: Presenteren & reflecteren
 
 **Doel:** Leerlingen delen hun Innerlijk Lied en reflecteren op proces & gevoel.
 
-#### Onderdeel & Activiteit
+#### Onderdeel & activiteit
 
 | Onderdeel | Activiteit | Tijd | Werkvorm |
 |-----------|------------|------|----------|
@@ -223,7 +223,7 @@ Elke leerling trekt:
 
 <br>
 
-### 🃏 De Kaartenset
+### 🃏 De kaartenset
 
 ![Een foto van een kaartencombinatie](/assets/images/innerlijklied-kaartenvoorbeeld2.jpg)
 
@@ -244,7 +244,7 @@ Voorbeelden:
 
 ---
 
-#### 2. Symboliekkaart - Natuur als metafoor
+#### 2. Symboliekkaart - natuur als metafoor
 Voorbeelden:  
 - Wolf  
 - Rivier  
@@ -257,7 +257,7 @@ Voorbeelden:
 
 ---
 
-#### 3. Sfeerkaart - De emotionele richting
+#### 3. Sfeerkaart - de emotionele richting
 Voorbeelden:  
 - Verwonderd  
 - Speels  
@@ -270,7 +270,7 @@ Voorbeelden:
 
 ---
 
-#### 4. Muzikaal kader - Creatieve beperking
+#### 4. Muzikaal kader - creatieve beperking
 Voorbeelden:  
 - Alleen witte toetsen  
 - Alleen mineur  
@@ -283,7 +283,7 @@ Voorbeelden:
 
 ---
 
-#### 5. Anti‑perfectionisme kaart - Fouten als kunst
+#### 5. Anti‑perfectionisme kaart - fouten als kunst
 Voorbeelden:  
 - Zing “lelijk”  
 - Onverwachte pauzes  

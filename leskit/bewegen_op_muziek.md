@@ -84,11 +84,11 @@ Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van
 
 ---
 
-### 🥁 Les 1: Warming‑up, Basisbewegingen & Gegrond Dansen
+### 🥁 Les 1: Warming‑up, basisbewegingen & gegrond dansen
 
 **Doel:** Het lichaam activeren, ritme voelen, basisbewegingen leren en combineren.
 
-#### Onderdeel & Activiteit
+#### Onderdeel & activiteit
 
 | Onderdeel | Activiteit | Tijd | Werkvorm |
 |-----------|------------|------|----------|
@@ -106,11 +106,11 @@ Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van
 
 ---
 
-### 💃 Les 2: Warming‑up, Basisbewegingen & Eenvoudige Choreo
+### 💃 Les 2: Warming‑up, basisbewegingen & eenvoudige choreo
 
 **Doel:** Herhalen van les 1 + een korte choreografie leren.
 
-#### Onderdeel & Activiteit
+#### Onderdeel & activiteit
 
 | Onderdeel | Activiteit | Tijd | Werkvorm |
 |-----------|------------|------|----------|
