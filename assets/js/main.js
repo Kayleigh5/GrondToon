@@ -44,6 +44,7 @@ $(function () {
   });
 
   $("nav ul li").on("click", "a", function (event) {
+    $("body").removeClass("drop");
     var position = $($(this).attr("href")).offset().top - 70;
     $("html, body").animate({ scrollTop: position }, 400);
     $("nav ul li a").parent().removeClass("active");
