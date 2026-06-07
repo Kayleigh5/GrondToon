@@ -6,7 +6,7 @@ order: 2
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
-![Foto van vijf leerlingen die buiten dansen](assets/images/innerlijklied-nora.png)
+![Foto van vijf leerlingen die buiten dansen](/assets/images/innerlijklied-nora.png)
 
 - *Doelgroep:* 9–15 jaar  
 - *Duur:* 4 lessen (±60 minuten per les)  
@@ -36,9 +36,9 @@ Leerlingen gebruiken de **Innerlijk Lied Kaartenset** uit de GrondToon Klankbox 
 
 Door willekeurig kaarten te trekken ontstaat een **unieke creatieve opdracht** die zowel muzikaal als persoonlijk betekenisvol is.
 
-![Het kaartensetdoosje met de 5 verschillende kaartsoorten](assets/images/innerlijklied-kaartenset.jpg)
+![Het kaartensetdoosje met de 5 verschillende kaartsoorten](/assets/images/innerlijklied-kaartenset.jpg)
 
-![Een foto van vijf leerlingen die zitten op een kleed met blaadjes voor hun](assets/images/innerlijklied.jpg)
+![Een foto van vijf leerlingen die zitten op een kleed met blaadjes voor hun](/assets/images/innerlijklied.jpg)
 
 
 ---
@@ -76,24 +76,24 @@ Door willekeurig kaarten te trekken ontstaat een **unieke creatieve opdracht** d
 
 Twee leerlingen van van [Grond - school voor leven](https://grond-schoolvoorleven.nl/) hebben in de pilotfase van het ontwikkelen van de kaartenset op basis van de volgende kaartencombinatie een kort lied gemaakt:
 
-![Een foto van een kaartencombinatie](assets/images/innerlijklied-kaartenvoorbeeld.jpg)
+![Een foto van een kaartencombinatie](/assets/images/innerlijklied-kaartenvoorbeeld.jpg)
 
 <iframe style="width: 100%; height:300px" src="https://www.youtube.com/embed/VXjrKOjEiMY" title="Innerlijk Lied kaartenset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Verder hebben een aantal leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/) na oefeningen met de kaartenset uitgebreidere liedjes gemaakt:
 
 <audio controls autoplay>
-  <source src="./assets/audio/innerlijklied3.mp3" type="audio/mpeg">
+  <source src="/assets/audio/innerlijklied3.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls autoplay>
-  <source src="./assets/audio/innerlijklied2.mp3" type="audio/mpeg">
+  <source src="/assets/audio/innerlijklied2.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls autoplay>
-  <source src="./assets/audio/innerlijklied1.mp3" type="audio/mpeg">
+  <source src="/assets/audio/innerlijklied1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -211,7 +211,7 @@ Elke leerling trekt:
 
 # 🃏 De Kaartenset
 
-![Een foto van een kaartencombinatie](assets/images/innerlijklied-kaartenvoorbeeld2.jpg)
+![Een foto van een kaartencombinatie](/assets/images/innerlijklied-kaartenvoorbeeld2.jpg)
 
 De Innerlijk Lied Kaartenset, te vinden in de **GrondToon Klankbox**, biedt een kader dat de focus verlegt van “moet‑perfect‑klinken” naar “wat wil ik echt uitdrukken en hoe”. Door willekeurig een combinatie van kaarten te trekken – onderwerp, symboliek, sfeer, een muzikaal kader en eventueel een anti‑perfectionisme‑kaart – ontstaat een unieke creatieve opdracht: schrijf 4 – 12 regels spoken‑word of zang, begeleid door een zelfgekozen instrument. De kaarten fungeren als **creatieve prikkels** die leerlingen aansporen om persoonlijke ervaringen te vertalen naar muziek, terwijl ze expliciet leren dat **imperfecties** een legitieme en waardevolle keuze zijn.
 

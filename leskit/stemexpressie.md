@@ -6,7 +6,7 @@ order: 3
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
-![Foto van vijf leerlingen die buiten dansen](assets/images/bewegenopmuziek.jpg)
+![Foto van vijf leerlingen die buiten dansen](/assets/images/bewegenopmuziek.jpg)
 
 - *Doelgroep:* 9–15 jaar  
 - *Duur:* 2–6 lessen (±60 minuten per les)  

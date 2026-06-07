@@ -6,7 +6,7 @@ order: 1
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
-![Drie foto's van natuurbeats project: leerlingen in het bos die opnames maken, en leerlingen die op een computer werken](assets/images/natuurbeats.jpg)
+![Drie foto's van natuurbeats project: leerlingen in het bos die opnames maken, en leerlingen die op een computer werken](/assets/images/natuurbeats.jpg)
 
 - *Doelgroep:* 9-15 jaar
 - *Duur:* 4 lessen (±60 minuten per les)
@@ -34,7 +34,7 @@ De leskit Natuurbeats is een creatief en holistisch muziekproject voor leerlinge
 ---
 
 ## 📚 Materialen
-![Opnameapparatuur natuurbeats](assets/images/natuurbeats-materialen.jpg)
+![Opnameapparatuur natuurbeats](/assets/images/natuurbeats-materialen.jpg)
 
 #### Fysieke materialen
 
@@ -69,17 +69,17 @@ De volgende materialen zijn onderdeel van de GrondToon Klankbox:
 De volgende natuurbeats zijn gemaakt door leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/):
 
 <audio controls autoplay>
-  <source src="./assets/audio/Natuurbeat-Axel-Pepe.mp3" type="audio/mpeg">
+  <source src="/assets/audio/Natuurbeat-Axel-Pepe.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls autoplay>
-  <source src="./assets/audio/Natuurbeat-Eline-Norah.mp3" type="audio/mpeg">
+  <source src="/assets/audio/Natuurbeat-Eline-Norah.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls autoplay>
-  <source src="./assets/audio/Natuurbeat-Sanneke.mp3" type="audio/mpeg">
+  <source src="/assets/audio/Natuurbeat-Sanneke.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -118,7 +118,7 @@ Your browser does not support the audio element.
 <br>
 
 ## 🎛️ Les 2: Beat Maken met een DAW
-![Twee leerlingen werken op een computer](assets/images/natuurbeats-daw2.jpg)
+![Twee leerlingen werken op een computer](/assets/images/natuurbeats-daw2.jpg)
 **Doel:** Kennismaken met een DAW en een eenvoudige beat maken.
 
 | Onderdeel          | Activiteit                                                                 | Tijd   | Werkvorm       | Materialen               |
@@ -146,7 +146,7 @@ Your browser does not support the audio element.
 <br>
 
 ## 🌳 Les 3: Natuurgeluiden Opnemen in het Bos
-![Een leerling maakt een geluidsopname bij een boom](assets/images/natuurbeats-opname.jpg)
+![Een leerling maakt een geluidsopname bij een boom](/assets/images/natuurbeats-opname.jpg)
 **Doel:** Aandachtig luisteren en natuurgeluiden opnemen.
 
 | Onderdeel          | Activiteit                                                                 | Tijd   | Werkvorm       | Materialen               |
@@ -174,7 +174,7 @@ Your browser does not support the audio element.
 <br>
 
 ## 🎚️ Les 4: Natuurgeluiden in de DAW
-![Twee leerlingen werken op een computer](assets/images/natuurbeats-daw.jpg)
+![Twee leerlingen werken op een computer](/assets/images/natuurbeats-daw.jpg)
 **Doel:** Beat maken met opgenomen natuurgeluiden.
 
 | Onderdeel          | Activiteit                                                                 | Tijd   | Werkvorm       | Materialen               |
