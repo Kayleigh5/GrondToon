@@ -67,6 +67,7 @@ Improvisatie is een waardevolle vaardigheid - niet alleen in muziek, maar ook in
 Praktijkvoorbeelden met leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/).
 
 ![Foto van docent en leerling die gitaar spelen](/assets/images/intuitiefimproviseren-gitaar.jpg)
+![Foto van docent en leerling die gitaar en drum spelen](/assets/images/intuitiefimproviseren-drum.jpg)
 
 <iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/9H_OrjLdps0" title="GrondToon - Intuïtief Improviseren" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
