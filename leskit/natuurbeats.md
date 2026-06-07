@@ -68,6 +68,10 @@ De volgende materialen zijn onderdeel van de GrondToon Klankbox:
 
 ## 🎧 Voorbeelden uit de praktijk
 
+![Foto van leerling die geluiden in het bos opneemt](/assets/images/natuurbeats-opname2.jpg)
+
+![Screenshot van natuurbeats in Ableton](/assets/images/natuurbeat-ableton.jpg)
+
 De volgende natuurbeats zijn gemaakt door leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/):
 
 <audio controls autoplay>
