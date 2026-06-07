@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+html {
+	scroll-behavior: smooth;
+}
+
+section h1,h2,h3 {
+	scroll-margin-top: 70px;
+}
+
 header {
   background: url(../images/grondtoon-header.jpg);
   background-size: 106500px auto;

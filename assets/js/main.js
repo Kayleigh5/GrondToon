@@ -1,58 +1,41 @@
-var sectionHeight = function () {
-  var total = $(window).height(),
-    $section = $("section").css("height", "auto");
+document.addEventListener("DOMContentLoaded", () => {
+  // toggle .drop on body when clicking the dropdown menu item
+  document.querySelectorAll("#menu ul li.dropdown").forEach(el =>
+    el.addEventListener("click", e => {
+      document.body.classList.toggle("drop");
+      e.preventDefault();
+    })
+  );
 
-  if ($section.outerHeight(true) < total) {
-    var margin = $section.outerHeight(true) - $section.height();
-    $section.height(total - margin - 20);
-  } else {
-    $section.css("height", "auto");
+  // build nav items from section headings (h1, h2, h3)
+  const navUl = document.querySelector("nav ul");
+  if (navUl) {
+    const headings = document.querySelectorAll("section h1, section h2, section h3");
+    headings.forEach((heading, i) => {
+      const text = (heading.textContent || "").trim();
+      let id = text.toLowerCase().replace(/ /g, "-").replace(/[^\w-]+/g, "");
+      if (!id) id = `heading-${i}`;
+
+      heading.id = id;
+
+      const li = document.createElement("li");
+      li.className = `tag-${heading.nodeName.toLowerCase()}`;
+      const a = document.createElement("a");
+      a.href = `#${id}`;
+      a.textContent = text;
+      li.appendChild(a);
+      navUl.appendChild(li);
+    });
   }
-};
 
-$(window).resize(sectionHeight);
-
-$(function () {
-  $("#menu ul li.dropdown").on("click", function (event) {
-    $("body").toggleClass("drop");
-    event.preventDefault();
-  });
-
-  $("section h1, section h2, section h3").each(function () {
-    $("nav ul").append(
-      "<li class='tag-" +
-        this.nodeName.toLowerCase() +
-        "'><a href='#" +
-        $(this)
-          .text()
-          .toLowerCase()
-          .replace(/ /g, "-")
-          .replace(/[^\w-]+/g, "") +
-        "'>" +
-        $(this).text() +
-        "</a></li>",
-    );
-    $(this).attr(
-      "id",
-      $(this)
-        .text()
-        .toLowerCase()
-        .replace(/ /g, "-")
-        .replace(/[^\w-]+/g, ""),
-    );
-    $("nav ul li:first-child a").parent().addClass("active");
-  });
-
-  $("nav ul li").on("click", "a", function (event) {
-    $("body").removeClass("drop");
-    var position = $($(this).attr("href")).offset().top - 70;
-    $("html, body").animate({ scrollTop: position }, 400);
-    $("nav ul li a").parent().removeClass("active");
-    $(this).parent().addClass("active");
-    event.preventDefault();
-  });
-
-  sectionHeight();
-
-  $("img").on("load", sectionHeight);
+  // remove .drop from body when any nav link is clicked (delegated)
+  const nav = document.querySelector("nav");
+  if (nav) {
+    nav.addEventListener("click", e => {
+      const target = e.target;
+      if (target.tagName && target.tagName.toLowerCase() === "a") {
+        document.body.classList.remove("drop");
+      }
+    });
+  }
 });
