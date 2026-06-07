@@ -16,7 +16,7 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-### 🌳 Kern van Bewegen op Muziek
+### 🌳 De kern
 
 Bewegen op Muziek helpt leerlingen om **uit hun hoofd en in hun lijf** te komen. Door grote, aardse bewegingen op percussieve muziek - geïnspireerd door Afrikaanse dans - ervaren ze hoe ritme door het lichaam stroomt. De nadruk ligt op **gronding**, **kracht**, **ritmegevoel**, **expressie** en **vrij bewegen**.
 
