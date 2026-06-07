@@ -4,6 +4,8 @@ GrondToon is een cultuureducatief product, ontwikkeld door [Kayleigh Beard](http
 
 ![Een foto van Kayleigh Beard met leerlingen buiten met muziekinstrumenten](/assets/images/grondtoon-header.jpg)
 
+### Leskits
+
 #### Inleiding
 GrondToon bevat diverse leskits, en biedt daarmee een brede, **holistische benadering** van muziekleren, waarbij niet alleen technische vaardigheden (zoals noten lezen, instrument bespelen of zingen) centraal staan, maar ook emotionele, cognitieve, fysieke en zelfs spirituele aspecten van muziek worden meegenomen. Bij GrondToon werken leerlingen aan hun eigen **muzikale expressie**. In tegenstelling tot traditionele methodes, staat de **persoonlijke bron van creativiteit** van elke leerling centraal, en niet enkel de **muzikale vaardigheden**. Een ander uniek aspect is het integreren van **natuurgeluiden** en daarmee de **verbinding met de wereld** om ons heen. Het product dat is voortgevloeid uit dit ontwikkeltraject is de **GrondToon Klankbox**, een combinatie van digitale en fysieke materialen, die door diverse scholen kunnen worden gebruikt om dit project neer te zetten.
 

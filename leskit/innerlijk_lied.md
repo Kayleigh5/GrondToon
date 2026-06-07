@@ -223,7 +223,7 @@ Elke leerling trekt:
 
 <br>
 
-## 🃏 De Kaartenset
+### 🃏 De Kaartenset
 
 ![Een foto van een kaartencombinatie](/assets/images/innerlijklied-kaartenvoorbeeld2.jpg)
 
