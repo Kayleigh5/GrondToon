@@ -123,9 +123,14 @@ section img, section {
 }
 
 @media print, screen and (max-width: 720px) {
+  
+  header h1 {
+    font-size: 40px;
+  }
+
   header p {
     display: block;
-    font-size: 14px;
+    font-size: 17px;
   }
 
   section {
