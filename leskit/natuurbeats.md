@@ -16,7 +16,7 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-### 🌳 Kern van Natuurbeats
+### 🌳 De kern
 
 De leskit Natuurbeats is een creatief en holistisch muziekproject voor leerlingen, gericht op het **verbinden met de natuur**, muziek en aandachtig luisteren. Gedurende vier lessen leren leerlingen niet alleen **muzikale ritmes** en het gebruik van een **DAW** (Digital Audio Workstation, zoals Ableton), maar ook om met volle **aandacht** de natuur in te gaan, **natuurgeluiden** op te nemen en deze om te zetten in **unieke beats**. Door stil te staan in de natuur, geluiden bewust op te nemen en deze vervolgens creatief te bewerken, ontdekken ze hoe muziek en omgeving met elkaar verweven zijn. Het project stimuleert niet alleen technisch en muzikaal ritmisch inzicht, maar ook een diepere **verbinding** met de wereld om hen heen, waarbij **creativiteit** en **samenwerking** centraal staan.
 
@@ -99,7 +99,7 @@ Your browser does not support the audio element.
 
 ---
 
-### 🎵 Les 1: Ritmische Concepten
+### 🎵 Les 1: Ritmische concepten
 <iframe style="width: 100%; height:400px;" src="https://www.youtube-nocookie.com/embed/kALzvJpNpWw" title="Musical notes and rhythms 🎻🎹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 **Doel:** Basisprincipes van ritme leren en toepassen.
 
@@ -123,7 +123,7 @@ Your browser does not support the audio element.
 
 <br>
 
-### 🎛️ Les 2: Beat Maken met een DAW
+### 🎛️ Les 2: Beat maken met een DAW
 ![Twee leerlingen werken op een computer](/assets/images/natuurbeats-daw2.jpg)
 **Doel:** Kennismaken met een DAW en een eenvoudige beat maken.
 
@@ -151,7 +151,7 @@ Your browser does not support the audio element.
 
 <br>
 
-### 🌳 Les 3: Natuurgeluiden Opnemen in het Bos
+### 🌳 Les 3: Natuurgeluiden opnemen in het bos
 ![Een leerling maakt een geluidsopname bij een boom](/assets/images/natuurbeats-opname.jpg)
 **Doel:** Aandachtig luisteren en natuurgeluiden opnemen.
 
@@ -238,7 +238,7 @@ Your browser does not support the audio element.
 
 <br>
 
-### 💡 Tips voor de Docent
+### 💡 Tips voor de docent
 #### Voorbereiding
 
 - Zorg dat de **Laptops**, **Tablets**, en **recordingsapparatuur** vooraf zijn opgeladen.

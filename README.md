@@ -95,7 +95,7 @@ Zie hier de volledige leskit: [Leskit Intuïtief Improviseren](/leskit/intuitief
 
 ---
 
-### Bewegen op muziek
+### Bewegen op Muziek
 
 ![Foto van vijf leerlingen die buiten dansen](/assets/images/bewegenopmuziek.jpg)
 

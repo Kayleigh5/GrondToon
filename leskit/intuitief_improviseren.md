@@ -16,7 +16,7 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-### 🌳 Kern van Intuïtief Improviseren
+### 🌳 De kern
 
 Intuïtief improviseren is een speelse, vrije en diep muzikale manier van leren. Waar bestaande stukken vaak veel **hoofdwerk** vragen - noten lezen, techniek, structuur - nodigt improvisatie leerlingen uit om te spelen vanuit **gevoel**, **intuïtie** en **aanwezigheid**.  
 
@@ -85,11 +85,11 @@ De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te bre
 
 ---
 
-### 🎵 Les 1: Spelen vanuit Gevoel & Eerste Improvisatie
+### 🎵 Les 1: Spelen vanuit gevoel & eerste improvisatie
 
 **Doel:** Leerlingen ervaren hoe het is om vrij te spelen over herhalende akkoorden en leren variëren met muzikale elementen.
 
-#### Onderdeel & Activiteit
+#### Onderdeel & activiteit
 
 | Onderdeel | Activiteit | Tijd | Werkvorm |
 |-----------|------------|------|----------|
@@ -107,11 +107,11 @@ De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te bre
 
 ---
 
-### 🎶 Les 2: Muzikale Communicatie & Samenspel
+### 🎶 Les 2: Muzikale communicatie & samenspel
 
 **Doel:** Leerlingen leren communiceren via muziek, reageren op anderen en zelf initiatieven nemen - individueel, in duo’s of met de hele klas.
 
-#### Onderdeel & Activiteit
+#### Onderdeel & activiteit
 
 | Onderdeel | Activiteit | Tijd | Werkvorm |
 |-----------|------------|------|----------|
