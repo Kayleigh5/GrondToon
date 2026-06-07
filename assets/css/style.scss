@@ -1,20 +1,17 @@
 ---
 ---
 
-@import 'jekyll-theme-leap-day';
-
-// body {
-//     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-// }
+@import "{{ site.theme }}";
 
 header {
-    background: url(../images/grondtoon-header.jpg);
-    background-size: 8000vmax;
-    animation: move-bg 3000s linear infinite;
-    image-rendering: pixelated;
-    border-bottom: 5px solid #fc0;
-    cursor: pointer;
-    height: 90px;
+  background: url(../images/grondtoon-header.jpg);
+  background-size: 8000vmax;
+  animation: move-bg 3000s linear infinite;
+  image-rendering: pixelated;
+  border-bottom: 5px solid #fc0;
+  position: sticky;
+  top: -85px;
+  padding: 0;
 }
 
 @keyframes move-bg {
@@ -27,47 +24,59 @@ header {
 }
 
 header h1 {
-    text-shadow: 0px 2px 0px #152c1c;
+  text-shadow: 0px 2px 0px #152c1c;
+  padding-top: 15px;
+  pointer-events: none;
 }
 
 header p {
-    text-shadow: 0px 1px 0px #152c1c;
-    font-size: 17px;
-    margin-top: 2px;
+  text-shadow: 0px 1px 0px #152c1c;
+  font-size: 17px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+  pointer-events: none;
 }
 
-// #banner {
-//     display: none;
-// }
-
-#banner {
-    background: transparent;
-    text-align: center;
-    border: none;
-    box-shadow: none;
-    right: 0;
-    margin-right: 0;
+#menu {
+  margin-bottom: 5px;
 }
 
-#banner ul {
-    float: unset;
+.menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
-
-#banner ul li a {
-    padding: 10px;
-    background: #fc0;
-    border-radius: 5px;
-    margin:5px;
-    color: black;
+.menu li a {
+  padding: 5px;
+  background: #fc0;
+  border-radius: 5px;
+  margin: 2px;
+  color: black;
+  white-space: nowrap;
+  display: block;
 }
 
-#banner ul li.active a {
-    background: #f0b500;
+.menu li.active a {
+  background: #f0b500;
 }
 
-footer {
-    display: none;
+#dropdown-menu {
+  display: none;
+}
+
+body.drop #dropdown-menu {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  align-content: flex-start;
+  background: #fc0;
+  padding: 10px 0;
+  box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
 }
 
 strong {
@@ -80,31 +89,42 @@ strong {
 // }
 
 section {
-    margin-top: 175px;
-    border-radius: 8px;
+  margin-top: 25px;
+  border-radius: 8px;
 }
 
 @media print, screen and (max-width: 1060px) {
   section {
-    margin-top: 175px;
+    // margin-top: 175px;
     padding: 30px 30px 50px 30px;
   }
 }
 
 @media print, screen and (max-width: 720px) {
 
-    header {
-        height: 90px;
-    }
-    
-    header p { 
-        display: block; 
-        font-size: 14px;
-    }
+  header p {
+    display: block;
+    font-size: 14px;
+  }
 
   section {
-    margin-top: 150px;
     padding: 15px 15px 25px 15px;
   }
 }
 
+nav {
+  position: absolute;
+  top: 175px;
+}
+
+@media print, screen and (max-height: 480px) {
+  nav {
+    display: block;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  header ul {
+    display: unset;
+  }
+}
