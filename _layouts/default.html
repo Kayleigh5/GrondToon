@@ -4,9 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.3.0.min.js"
+      integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4="
+      crossorigin="anonymous"
+    ></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
@@ -16,49 +20,74 @@
     {% include head-custom.html %}
   </head>
   <body>
-
-      <header>
-        <h1>{{ default: site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-      </header>
-
-      <div id="banner">
-        <ul>
-        <!-- Home link -->
-        <li class="{% if page.url == '/' %}active{% endif %}">
-            <a href="{{ '/' | relative_url }}">
-            {{ site.title | default: site.github.repository_name }}
-            </a>
-        </li>
-
-        <!-- Loop through all pages -->
-        {% assign pages_list = site.pages | sort: "title" %}
-        {% for p in pages_list %}
-            {% if p.title and p.url != '/' %}
-            <li class="{% if page.url == p.url %}active{% endif %}">
-                <a href="{{ p.url | relative_url }}">
-                {{ p.title }}
-                </a>
+    <header>
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+      <div id="menu">
+        <ul class="menu">
+          <!-- Home link -->
+          <li class="{% if page.url == '/' %}active{% endif %}"><a href="{{ '/' | relative_url }}">GrondToon</a></li>
+          <!-- collect pages under /leskit/ (compatible Liquid) -->
+          {%- assign leskit_pages = '' | split: '' %}
+          {%- for p in site.pages %}
+            {%- if p.title and p.url != '/' %}
+              {%- assign normalized = p.url %}
+              {%- if normalized == null %}
+                {%- assign normalized = p.path %}
+              {%- endif %}
+              {%- if normalized %}
+                {%- assign starts = normalized | slice: 0, 8 %}
+                {%- if starts == '/leskit/' or starts == 'leskit/' %}
+                  {%- assign leskit_pages = leskit_pages | push: p %}
+                {%- endif %}
+              {%- endif %}
+            {%- endif %}
+          {%- endfor %}
+          {%- assign leskit_pages = leskit_pages | sort: 'order' %}
+          {%- if leskit_pages.size > 0 %}
+            {%- assign is_leskit_active = false %}
+            {%- for lp in leskit_pages %}
+              {%- if lp.url == page.url %}{% assign is_leskit_active = true %}{% endif %}
+            {%- endfor %}
+            <li class="dropdown{% if is_leskit_active %} active{% endif %}">
+              <a href="#" class="dropdown-toggle">Leskits <span class="caret">▾</span></a>
             </li>
-            {% endif %}
-        {% endfor %}
+          {%- endif %}
+          <!-- other pages (exclude leskit directory and home) -->
+          {%- for p in site.pages %}
+            {%- if p.title and p.url != '/' %}
+              {%- assign normalized = p.url %}
+              {%- if normalized == null %}
+                {%- assign normalized = p.path %}
+              {%- endif %}
+              {%- assign starts = '' %}
+              {%- if normalized %}
+                {%- assign starts = normalized | slice: 0, 8 %}
+              {%- endif %}
+              {%- unless starts == '/leskit/' or starts == 'leskit/' %}
+                <li class="{% if page.url == p.url %}active{% endif %}">
+                  <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+                </li>
+              {%- endunless %}
+            {%- endif %}
+          {%- endfor %}
         </ul>
-      </div><!-- end banner -->
-
-    <div class="wrapper">
+      </div>
       <nav>
         <ul></ul>
       </nav>
+      <ul id="dropdown-menu" class="menu">
+        {%- for lp in leskit_pages %}
+          <li class="{% if page.url == lp.url %}active{% endif %}">
+            <a href="{{ lp.url | relative_url }}">{{ lp.title }}</a>
+          </li>
+        {%- endfor %}
+      </ul>
+    </header>
+    <div class="wrapper">
       <section>
         {{ content }}
-
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
-      </footer>
     </div>
   </body>
 </html>
