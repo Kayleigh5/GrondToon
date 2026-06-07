@@ -1,4 +1,4 @@
-# GrondToon
+## GrondToon
 
 GrondToon is een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
@@ -30,7 +30,7 @@ De **GrondToon Klankbox** bestaat uit de volgende onderdelen:
 
 ---
 
-## Natuurbeats
+### Natuurbeats
 
 ![Natuurbeats](/assets/images/natuurbeats.jpg)
 
@@ -40,7 +40,7 @@ Zie hier de volledige leskit: [Leskit Natuurbeats](/leskit/natuurbeats.md).
 
 ---
 
-## Innerlijk Lied
+### Innerlijk Lied
 
 ![Foto van een leerling achter een keyboard](/assets/images/innerlijklied-keyboard.jpg)
 
@@ -50,7 +50,7 @@ Zie hier de volledige leskit: [Leskit Innerlijk Lied](/leskit/innerlijk_lied.md)
 
 ---
 
-## Stemexpressie
+### Stemexpressie
 
 ![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie-thefive.jpg)
 
@@ -70,7 +70,7 @@ Zie hier de volledige leskit: [Leskit Stemexpressie](/leskit/stemexpressie.md).
 
 ---
 
-## Intuitief Improviseren
+### Intuitief Improviseren
 
 ![Foto van docent en leerling die piano spelen](/assets/images/intuitiefimproviseren.jpg)
 
@@ -93,7 +93,7 @@ Zie hier de volledige leskit: [Leskit Intuïtief Improviseren](/leskit/intuitief
 
 ---
 
-## Bewegen op muziek
+### Bewegen op muziek
 
 ![Foto van vijf leerlingen die buiten dansen](/assets/images/bewegenopmuziek.jpg)
 
@@ -105,7 +105,7 @@ Zie hier de volledige leskit: [Leskit Bewegen op Muziek](/leskit/bewegen_op_muzi
 
 ---
 
-## Over mij
+### Over mij
 
 ![Een foto van Kayleigh Beard zingend op het podium](/assets/images/over-mij.jpg)
 

@@ -2,7 +2,7 @@
 order: 2
 ---
 
-# Innerlijk Lied
+## Innerlijk Lied
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
@@ -16,7 +16,7 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-## 🌳 Kern van het Innerlijk Lied
+### 🌳 Kern van het Innerlijk Lied
 
 In mijn werk bij [Grond - school voor leven](https://grond-schoolvoorleven.nl/) kom ik regelmatig tegen hoe sterk **perfectionisme** leerlingen kan blokkeren: bij het schrijven van een eigen lied zijn er vaak volop ideeën, maar niets voelt goed of mooi genoeg om echt te delen. Met de leskit Innerlijk Lied ontdekken leerlingen dat muziek juist een plek is waar je **jezelf mag laten horen** - niet omdat het perfect moet zijn, maar omdat jouw binnenwereld ertoe doet. Ze leren eerst aandachtig luisteren naar bestaande liedjes om te voelen hoe structuur, sfeer en emotie samenwerken, verkennen daarna de **Innerlijk‑Lied‑kaartenset** die hen uitnodigt om hun eigen ervaringen, beelden en gevoelens te vertalen naar woorden, en geven die woorden vervolgens klank en vorm met stem of instrument. Met GrondToon Innerlijk Lied laat ik hun muzikale creativiteit stromen door een **speels** maar gestructureerd kader te bieden: door willekeurig kaarten te trekken - onderwerp, symboliek, sfeer, muzikaal kader en eventueel een anti‑perfectionisme‑kaart - ontstaat een unieke creatieve opdracht die hen helpt 4–12 regels spoken word of zang te maken. De kaarten fungeren als zachte duwtjes richting **expressie**, terwijl leerlingen expliciet leren dat imperfecties geen fout zijn maar een **waardevolle artistieke keuze**. Zo ervaart elke leerling dat hun innerlijke wereld het waard is om gehoord te worden.
 
@@ -44,7 +44,7 @@ Door willekeurig kaarten te trekken ontstaat een **unieke creatieve opdracht** d
 ---
 
 
-## 📌 Leerdoelen
+### 📌 Leerdoelen
 
 1. Leerlingen kunnen **persoonlijke ervaringen** vertalen naar tekst en muziek.  
 2. Leerlingen kunnen **symboliek** en **natuurelementen** gebruiken als creatieve inspiratiebron.  
@@ -56,7 +56,7 @@ Door willekeurig kaarten te trekken ontstaat een **unieke creatieve opdracht** d
 
 ---
 
-## 📚 Materialen
+### 📚 Materialen
 
 #### Fysiek
 - Innerlijk Lied kaartenset uit de GrondToon Klankbox
@@ -72,7 +72,7 @@ Door willekeurig kaarten te trekken ontstaat een **unieke creatieve opdracht** d
 ---
 
 
-## 🎧 Voorbeelden uit de praktijk
+### 🎧 Voorbeelden uit de praktijk
 
 Twee leerlingen van van [Grond - school voor leven](https://grond-schoolvoorleven.nl/) hebben in de pilotfase van het ontwikkelen van de kaartenset op basis van de volgende kaartencombinatie een kort lied gemaakt:
 
@@ -118,11 +118,11 @@ Your browser does not support the audio element.
 <br>
 
 
-# 📅 Lesopbouw
+## 📅 Lesopbouw
 
 ---
 
-## 🎵 Les 1: Luisteren naar Liedjes & Introductie Innerlijk Lied
+### 🎵 Les 1: Luisteren naar Liedjes & Introductie Innerlijk Lied
 
 **Doel:** Bewust leren luisteren naar bestaande liedjes én kennismaken met het concept Innerlijk Lied en de vijf kaartcategorieën.
 
@@ -144,7 +144,7 @@ Your browser does not support the audio element.
 
 ---
 
-## 🖋️ Les 2: Kaarten trekken & Tekst schrijven
+### 🖋️ Les 2: Kaarten trekken & Tekst schrijven
 
 **Doel:** Leerlingen schrijven 4–12 regels spoken word of zang op basis van hun kaartcombinatie.
 
@@ -175,7 +175,7 @@ Elke leerling trekt:
 
 ---
 
-## 🎼 Les 3: Muzikale vormgeving
+### 🎼 Les 3: Muzikale vormgeving
 
 **Doel:** De tekst krijgt een klankwereld: ritme, melodie, sfeer, instrument.
 
@@ -197,7 +197,7 @@ Elke leerling trekt:
 
 ---
 
-## 🎤 Les 4: Presenteren & Reflecteren
+### 🎤 Les 4: Presenteren & Reflecteren
 
 **Doel:** Leerlingen delen hun Innerlijk Lied en reflecteren op proces & gevoel.
 
@@ -223,7 +223,7 @@ Elke leerling trekt:
 
 <br>
 
-# 🃏 De Kaartenset
+## 🃏 De Kaartenset
 
 ![Een foto van een kaartencombinatie](/assets/images/innerlijklied-kaartenvoorbeeld2.jpg)
 
@@ -303,7 +303,7 @@ Voorbeelden:
 
 <br>
 
-## 📊 Evaluatie
+### 📊 Evaluatie
 
 | Moment | Wat wordt beoordeeld | Methode |
 |--------|----------------------|---------|
@@ -314,7 +314,7 @@ Voorbeelden:
 
 ---
 
-## 🔗 Link met andere GrondToon‑leskits
+### 🔗 Link met andere GrondToon‑leskits
 
 | Leskit | Link |
 |--------|------|
@@ -328,7 +328,7 @@ Voorbeelden:
 
 <br>
 
-## 💡 Tips voor de docent
+### 💡 Tips voor de docent
 
 #### Voorbereiding
 - Zorg voor een veilige sfeer: geen oordeel, alleen nieuwsgierigheid.  

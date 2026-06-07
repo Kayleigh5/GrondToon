@@ -2,7 +2,7 @@
 order: 5
 ---
 
-# Bewegen op Muziek
+## Bewegen op Muziek
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
@@ -16,7 +16,7 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-## 🌳 Kern van Bewegen op Muziek
+### 🌳 Kern van Bewegen op Muziek
 
 Bewegen op Muziek helpt leerlingen om **uit hun hoofd en in hun lijf** te komen. Door grote, aardse bewegingen op percussieve muziek - geïnspireerd door Afrikaanse dans - ervaren ze hoe ritme door het lichaam stroomt. De nadruk ligt op **gronding**, **kracht**, **ritmegevoel**, **expressie** en **vrij bewegen**.
 
@@ -24,7 +24,7 @@ Dansen is niet alleen goed voor het lichaam, maar ook voor de hersenen: het verm
 
 ---
 
-## 📌 Leerdoelen
+### 📌 Leerdoelen
 
 - **Ritmegevoel** ontwikkelen door beweging op percussie.  
 - **Gronding** ervaren: laag, stevig, verbonden met de aarde.  
@@ -35,7 +35,7 @@ Dansen is niet alleen goed voor het lichaam, maar ook voor de hersenen: het verm
 
 ---
 
-## 📚 Materialen
+### 📚 Materialen
 
 - **Percussiemuziek** (Afrikaanse ritmes, djembé, drumgrooves)  
 - Ruimte om vrij te bewegen  
@@ -44,7 +44,7 @@ Dansen is niet alleen goed voor het lichaam, maar ook voor de hersenen: het verm
 
 ---
 
-## 🎧 Voorbeelden uit de praktijk
+### 🎧 Voorbeelden uit de praktijk
 
 Praktijkvoorbeelden met leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/).
 
@@ -78,13 +78,13 @@ Dans Imali:
 
 ---
 
-# 📅 Lesopbouw
+## 📅 Lesopbouw
 
 Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van 2 tot 20 lessen.
 
 ---
 
-## 🥁 Les 1: Warming‑up, Basisbewegingen & Gegrond Dansen
+### 🥁 Les 1: Warming‑up, Basisbewegingen & Gegrond Dansen
 
 **Doel:** Het lichaam activeren, ritme voelen, basisbewegingen leren en combineren.
 
@@ -106,7 +106,7 @@ Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van
 
 ---
 
-## 💃 Les 2: Warming‑up, Basisbewegingen & Eenvoudige Choreo
+### 💃 Les 2: Warming‑up, Basisbewegingen & Eenvoudige Choreo
 
 **Doel:** Herhalen van les 1 + een korte choreografie leren.
 
@@ -127,7 +127,7 @@ Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van
 
 ---
 
-## 📊 Evaluatie
+### 📊 Evaluatie
 
 | Moment | Wat wordt beoordeeld | Methode |
 |--------|----------------------|---------|
@@ -137,7 +137,7 @@ Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van
 
 ---
 
-## 🔗 Link met andere GrondToon‑leskits
+### 🔗 Link met andere GrondToon‑leskits
 
 - **Stemexpressie** - ademhaling & expressie via stem én lichaam  
 - **Intuïtief Improviseren** - vrij bewegen en vrij spelen versterken elkaar  
@@ -145,7 +145,7 @@ Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van
 
 ---
 
-## 💡 Tips voor de docent
+### 💡 Tips voor de docent
 
 - **Kies muziek** met duidelijke puls en aardse ritmes.  
 - Herinner leerlingen aan: *“Voeten zwaar, knieën zacht, adem laag.”*  
