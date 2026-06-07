@@ -16,19 +16,23 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-## 📌 Kern van Stemexpressie
+## 🌳 Kern van Stemexpressie
 
-De leskit **Stemexpressie** helpt leerlingen ontdekken hoe ze hun stem kunnen gebruiken als krachtig instrument voor **expressie**, **zelfvertrouwen** en **verbinding**. In tegenstelling tot traditionele zanglessen ligt de nadruk niet op “mooi zingen”, maar op **durven klinken**: stevig, zacht, kwetsbaar, speels, krachtig — wat er maar in hen leeft. Door middel van ademhalingsoefeningen, lichaamswerk, vocale warming‑ups en het zingen van mantra’s en zelfgekozen liedjes, ervaren leerlingen hoe hun stem verbonden is met hun lichaam, emoties en innerlijke wereld.
+De leskit **Stemexpressie** helpt leerlingen ontdekken hoe ze hun stem kunnen gebruiken als krachtig instrument voor **expressie**, **zelfvertrouwen** en **verbinding**. In tegenstelling tot traditionele zanglessen ligt de nadruk niet op “mooi zingen”, maar op **durven klinken**: stevig, zacht, kwetsbaar, speels, krachtig - wat er maar in hen leeft. Door middel van ademhalingsoefeningen, lichaamswerk, vocale warming‑ups en het zingen van mantra’s en zelfgekozen liedjes, ervaren leerlingen hoe hun stem verbonden is met hun lichaam, emoties en innerlijke wereld.
 
 Leerlingen leren:
 
-- hoe je vanuit de **buik** ademt en zingt  
+- hoe je **gegrond** en vanuit de **buik** ademt en zingt  
 - hoe je **spanning** herkent en loslaat  
 - hoe je je stem vrijer, voller en **expressiever** kunt gebruiken  
 - hoe je **betekenis** geeft aan een liedtekst  
 - hoe je jezelf **durft** te laten horen, individueel of in een groep  
+- hoe je een **meerstemmig** nummer zingt, en bij je eigen melodie kan blijven
 
-Voor sommige leerlingen is dit spannend — en juist daarom is Stemexpressie een veilige, speelse en opbouwende methode die hen stap voor stap begeleidt naar meer **zelfvertrouwen** en innerlijke kracht. Het leren durven laten horen van je stem is niet alleen waardevol binnen muziek, maar ook daarbuiten: in gesprekken, presentaties, sociale situaties en in het aangeven van je grenzen. Wie zijn stem durft te gebruiken, staat steviger in het leven.
+Voor sommige leerlingen is dit spannend - en juist daarom is Stemexpressie een veilige, speelse en opbouwende methode die hen stap voor stap begeleidt naar meer **zelfvertrouwen** en innerlijke kracht. Het leren durven laten horen van je stem is niet alleen waardevol binnen muziek, maar ook daarbuiten: in gesprekken, presentaties, sociale situaties en in het aangeven van je grenzen. Wie zijn stem durft te gebruiken, staat steviger in het leven.
+
+![Foto van een leerling die zingt in een microfoon](/assets/images/stemexpressie-microfoon.jpg)
+![Foto van een leerling die zingt en drumt tegelijk](/assets/images/stemexpressie-drum.jpg)
 
 ---
 
@@ -40,7 +44,7 @@ Voor sommige leerlingen is dit spannend — en juist daarom is Stemexpressie een
 4. Leerlingen **durven** hun stem te laten horen in groep of individueel.  
 5. Leerlingen kunnen een **lied kiezen**, betekenis onderzoeken en bewust uitvoeren.  
 6. Leerlingen kunnen **dynamiek** gebruiken (zacht, krachtig, fluisterend, open).  
-7. Gevorderde leerlingen kunnen tonen **nazingen op basis van akkoorden** (gehoortraining).  
+7. Gevorderde leerlingen kunnen tonen **nazingen op basis van akkoorden** (gehoortraining) en **meerstemmig** zingen.  
 8. Leerlingen reflecteren op hun eigen proces en groei in stemgebruik.
 
 ---
@@ -57,7 +61,34 @@ Voor sommige leerlingen is dit spannend — en juist daarom is Stemexpressie een
 
 ## 🎧 Voorbeelden uit de praktijk
 
-*(Optioneel: hier kun je later audiofragmenten toevoegen van leerlingen die mantra’s zingen of korte oefeningen doen.)*
+Praktijkvoorbeelden met leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/).
+
+<br>
+Vocale warming up:
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/lVBKCbgYns0" title="GrondToon - Stemexpressie - Warming up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+Zingen vanuit de buik: 
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/VtsVkSGWZbc" title="GrondToon - Stemexpressie - Zingen vanuit de buik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+Mantra's zingen: 
+
+![Foto van docent en leerlingen die op het gras zitten te zingen](/assets/images/stemexpressie-mantra.jpg)
+
+<br>
+Gehoortraining: 
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/wXCKykJglsY" title="GrondToon - Stemexpressie - Gehoortraining" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+Meerstemmig zingen: 
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/GTjvc9aq3P4" title="GrondToon - Stemexpressie - Meerstemmig zingen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 
 ---
 
@@ -131,23 +162,38 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 🎼 Les 4: Gehoortraining (Gevorderd)
+## 🎼 Les 4: Meerstemmigheid & Gehoor (gevorderd)
 
-**Doel:** Leerlingen trainen muzikaliteit door tonen te herkennen binnen akkoorden.
+**Doel:** Leerlingen trainen hun muzikaal gehoor én oefenen een eenvoudige meerstemmige passage. Ze leren bij hun eigen melodielijn blijven, ook wanneer anderen iets anders zingen.
 
 #### Onderdeel & Activiteit
 
 | Onderdeel | Activiteit | Tijd | Werkvorm |
 |-----------|------------|------|----------|
-| Intro | Uitleg: *“Een akkoord bestaat uit drie tonen. Kun jij er één nazingen?”* | 5 min | Klassikaal |
-| Oefening 1 | Docent speelt C‑akkoord → leerling zingt grondtoon | 10 min | Individueel |
-| Oefening 2 | Docent speelt akkoord → leerling zingt terts of kwint | 10 min | Individueel |
-| Oefening 3 | Akkoordprogressie → leerling zingt mee met één toonlijn | 10 min | Individueel |
-| Lied toepassen | Leerling zingt eigen lied met meer toonbewustzijn | 20 min | Individueel |
+| Intro | Uitleg: *“Vandaag trainen we ons gehoor én gaan we meerstemmig zingen. De uitdaging is: blijf bij jezelf.”* | 5 min | Klassikaal |
+| Opwarming | Docent begeleidt de leerlingen bij een vocale opwarming, met bijvoorbeeld lip trills, buik ademhalingstechnieken etc. | 10 min | Klassikaal |
+| Gehoortraining 1 | Docent speelt een **akkoord** → leerling zingt de **grondtoon**. | 5 min | Individueel |
+| Gehoortraining 2 | Docent speelt akkoord → leerling zingt **terts** of **kwint**. | 10 min | Individueel |
+| Meerstemmigheid - Intro | Docent introduceert een **eenvoudig meerstemmig nummer** (bijv. canon of 2‑stemmige frase). | 5 min | Klassikaal |
+| Stemlijn oefenen | Groep wordt verdeeld in 2 stemmen. Elke groep oefent **alleen hun eigen lijn**. | 10 min | Groep |
+| Samen zingen | Beide stemmen zingen tegelijk. Focus: **bij jezelf blijven**, niet meezwenken met de andere stem. | 10 min | Groep |
+| Afsluiting | Reflectie: *“Wanneer merkte je dat je bijna met de ander mee ging? Hoe bleef je bij jezelf?”* | 5 min | Klassikaal |
+
+---
 
 #### Differentiatie
-- **Makkelijker:** Alleen grondtoon zingen.  
-- **Uitdagender:** Onverwachte akkoorden (sus, add9).
+
+- **Makkelijker**: canon in twee ingangen.  
+- **Gemiddeld**: twee korte melodielijnen van 4–8 tellen.  
+- **Uitdagender**: derde stem toevoegen of ritmische tegenbeweging.
+
+---
+
+#### Tips voor de docent
+
+- Kies een **rustig, repetitief nummer** zodat leerlingen zich kunnen focussen op hun eigen lijn.  
+- Herinner ze aan: *“Je hoeft niet harder te zingen - je hoeft alleen trouw te blijven aan jouw melodie.”*  
+- Bij grote groepen: laat elke stemgroep even **apart** zingen voordat ze samenkomen.
 
 ---
 
@@ -184,7 +230,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 #### Reflectievragen
 1. Wat heb je ontdekt over je stem?  
 2. Wanneer voelde je je krachtig tijdens het zingen?  
-3. Wat vond je spannend — en hoe ben je daarmee omgegaan?  
+3. Wat vond je spannend - en hoe ben je daarmee omgegaan?  
 4. Wat zou je de volgende keer willen proberen?
 
 ---

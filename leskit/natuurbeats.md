@@ -16,7 +16,7 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-## 📌 Kern van Natuurbeats
+## 🌳 Kern van Natuurbeats
 
 De leskit Natuurbeats is een creatief en holistisch muziekproject voor leerlingen, gericht op het **verbinden met de natuur**, muziek en aandachtig luisteren. Gedurende vier lessen leren leerlingen niet alleen **muzikale ritmes** en het gebruik van een **DAW** (Digital Audio Workstation, zoals Ableton), maar ook om met volle **aandacht** de natuur in te gaan, **natuurgeluiden** op te nemen en deze om te zetten in **unieke beats**. Door stil te staan in de natuur, geluiden bewust op te nemen en deze vervolgens creatief te bewerken, ontdekken ze hoe muziek en omgeving met elkaar verweven zijn. Het project stimuleert niet alleen technisch en muzikaal ritmisch inzicht, maar ook een diepere **verbinding** met de wereld om hen heen, waarbij **creativiteit** en **samenwerking** centraal staan.
 
@@ -57,7 +57,7 @@ De volgende materialen zijn onderdeel van de GrondToon Klankbox:
 | Ableton (Note) (iPad/Mac)   | [Apple App Store](https://apps.apple.com/nl/app/ableton-note/id1633243177) | Veelgebruikte DAW                         |
 | GarageBand (iPad/Mac)   | [Apple App Store](https://apps.apple.com/nl/app/garageband/id682658836) | Gratis DAW                         |
 | BandLab                 | [bandlab.com](https://www.bandlab.com/) | Gratis online DAW                  |
-| Ritme-uitleg (YouTube)  | [Voorbeeldvideo](https://www.youtube.com/shorts/kALzvJpNpWw) | Voor ritme-concepten               |
+| Ritme-uitleg (YouTube)  | [Voorbeeldvideo](https://www.youtube-nocookie.com/shorts/kALzvJpNpWw) | Voor ritme-concepten               |
 
 <br>
 
@@ -91,10 +91,10 @@ Your browser does not support the audio element.
 
 # 📅 Lesopbouw
 
-<br>
+---
 
 ## 🎵 Les 1: Ritmische Concepten
-<iframe style="width: 100%; height:400px;" src="https://www.youtube.com/embed/kALzvJpNpWw" title="Musical notes and rhythms 🎻🎹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe style="width: 100%; height:400px;" src="https://www.youtube-nocookie.com/embed/kALzvJpNpWw" title="Musical notes and rhythms 🎻🎹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 **Doel:** Basisprincipes van ritme leren en toepassen.
 
 | Onderdeel          | Activiteit                                                                 | Tijd   | Werkvorm       | Materialen               |

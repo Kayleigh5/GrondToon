@@ -16,9 +16,9 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-## 📌 Kern van Bewegen op Muziek
+## 🌳 Kern van Bewegen op Muziek
 
-Bewegen op Muziek helpt leerlingen om **uit hun hoofd en in hun lijf** te komen. Door grote, aardse bewegingen op percussieve muziek — geïnspireerd door Afrikaanse dans — ervaren ze hoe ritme door het lichaam stroomt. De nadruk ligt op **gronding**, **kracht**, **ritmegevoel**, **expressie** en **vrij bewegen**.
+Bewegen op Muziek helpt leerlingen om **uit hun hoofd en in hun lijf** te komen. Door grote, aardse bewegingen op percussieve muziek - geïnspireerd door Afrikaanse dans - ervaren ze hoe ritme door het lichaam stroomt. De nadruk ligt op **gronding**, **kracht**, **ritmegevoel**, **expressie** en **vrij bewegen**.
 
 Dansen is niet alleen goed voor het lichaam, maar ook voor de hersenen: het vermindert stress, verbetert concentratie en versterkt lichaamsbewustzijn. In deze lessen leren leerlingen hoe beweging en muziek elkaar versterken, en hoe je via je lichaam emoties en energie kunt uitdrukken.
 
@@ -44,13 +44,47 @@ Dansen is niet alleen goed voor het lichaam, maar ook voor de hersenen: het verm
 
 ---
 
+## 🎧 Voorbeelden uit de praktijk
+
+Praktijkvoorbeelden met leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/).
+
+<br>
+Warming up:
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/c7w6xKfxYCU" title="GrondToon - Bewegenopmuziek - Warming Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Basisbewegingen:
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/h_iqCzdwhKU" title="GrondToon - Bewegenopmuziek - Basisbewegingen Yamore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Dans Soweto: 
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/nQRZsSUti7M" title="GrondToon - Bewegenopmuziek - Soweto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Dans Flaws:
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/ux8hDEp_WiM" title="GrondToon - Bewegenopmuziek - Dans Flaws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dans Bobo Me: 
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/USa6C2C2BWU" title="GrondToon - Bewegenopmuziek - Dans Bobo Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Dans Imali:
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/2AhEj3-NFoQ" title="GrondToon - Bewegenopmuziek - Imali" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # 📅 Lesopbouw
 
 Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van 2 tot 20 lessen.
 
 ---
 
-## 🥁 Les 1 — Warming‑up, Basisbewegingen & Gegrond Dansen
+## 🥁 Les 1: Warming‑up, Basisbewegingen & Gegrond Dansen
 
 **Doel:** Het lichaam activeren, ritme voelen, basisbewegingen leren en combineren.
 
@@ -72,7 +106,7 @@ Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van
 
 ---
 
-## 💃 Les 2 — Warming‑up, Basisbewegingen & Eenvoudige Choreo
+## 💃 Les 2: Warming‑up, Basisbewegingen & Eenvoudige Choreo
 
 **Doel:** Herhalen van les 1 + een korte choreografie leren.
 
@@ -105,9 +139,9 @@ Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van
 
 ## 🔗 Link met andere GrondToon‑leskits
 
-- **Stemexpressie** — ademhaling & expressie via stem én lichaam  
-- **Intuïtief Improviseren** — vrij bewegen en vrij spelen versterken elkaar  
-- **Natuurbeats** — ritmegevoel helpt bij dans en beatcreatie  
+- **Stemexpressie** - ademhaling & expressie via stem én lichaam  
+- **Intuïtief Improviseren** - vrij bewegen en vrij spelen versterken elkaar  
+- **Natuurbeats** - ritmegevoel helpt bij dans en beatcreatie  
 
 ---
 
@@ -115,7 +149,7 @@ Hieronder staan **2 basislessen**. Deze vormen de kern van een langere reeks van
 
 - **Kies muziek** met duidelijke puls en aardse ritmes.  
 - Herinner leerlingen aan: *“Voeten zwaar, knieën zacht, adem laag.”*  
-- Moedig **grote bewegingen** aan — dit helpt bij loslaten.  
+- Moedig **grote bewegingen** aan - dit helpt bij loslaten.  
 - Houd de sfeer **veilig, speels en oordeelvrij**.  
 - Eindig altijd met **rust**, zodat het lichaam kan integreren wat het heeft gedaan.
 
