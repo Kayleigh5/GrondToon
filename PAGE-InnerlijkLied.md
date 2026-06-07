@@ -1,6 +1,8 @@
 # Innerlijk Lied
 
-[Terug naar de GrondToon homepage](./index.html)
+Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
+
+![Foto van vijf leerlingen die buiten dansen](assets/images/innerlijklied-nora.png)
 
 - *Doelgroep:* 9–15 jaar  
 - *Duur:* 4 lessen (±60 minuten per les)  
@@ -102,7 +104,7 @@ Your browser does not support the audio element.
 
 <br>
 
-## 🎵 Les 1 — Luisteren naar Liedjes & Introductie Innerlijk Lied
+## 🎵 Les 1: Luisteren naar Liedjes & Introductie Innerlijk Lied
 
 **Doel:** Bewust leren luisteren naar bestaande liedjes én kennismaken met het concept Innerlijk Lied en de vijf kaartcategorieën.
 
@@ -124,7 +126,7 @@ Your browser does not support the audio element.
 
 ---
 
-## 🖋️ Les 2 — Kaarten trekken & Tekst schrijven
+## 🖋️ Les 2: Kaarten trekken & Tekst schrijven
 
 **Doel:** Leerlingen schrijven 4–12 regels spoken word of zang op basis van hun kaartcombinatie.
 
@@ -155,7 +157,7 @@ Elke leerling trekt:
 
 ---
 
-## 🎼 Les 3 — Muzikale vormgeving
+## 🎼 Les 3: Muzikale vormgeving
 
 **Doel:** De tekst krijgt een klankwereld: ritme, melodie, sfeer, instrument.
 
@@ -177,7 +179,7 @@ Elke leerling trekt:
 
 ---
 
-## 🎤 Les 4 — Presenteren & Reflecteren
+## 🎤 Les 4: Presenteren & Reflecteren
 
 **Doel:** Leerlingen delen hun Innerlijk Lied en reflecteren op proces & gevoel.
 

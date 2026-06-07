@@ -1,6 +1,8 @@
 # Natuurbeats
 
-[Terug naar de GrondToon homepage](./index.html)
+Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
+
+![Drie foto's van natuurbeats project: leerlingen in het bos die opnames maken, en leerlingen die op een computer werken](assets/images/natuurbeats.jpg)
 
 - *Doelgroep:* 9-15 jaar
 - *Duur:* 4 lessen (±60 minuten per les)
@@ -38,7 +40,7 @@ De volgende materialen zijn onderdeel van de GrondToon Klankbox:
 |-------------------------|----------------------|------------------------------------|
 | Zoom recorder           | 1 per 2-3 leerlingen | Voor opnemen natuurgeluiden        |
 | Headphones              | 1 per leerling       | Voor luisteren naar geluiden       |
-| Laptop/iPad             | 1 per leerling       | Voor DAW (GarageBand/BandLab)      |
+| Laptop/Tablet             | 1 per leerling       | Voor DAW (GarageBand/BandLab)      |
 | Drumstokken             | 2 per leerling       | Voor ritmische oefeningen          |
 | Werkbladen (ritme)      | Per leerling         | Voor noteren van ritmes            |
 | Notitieblok (natuur)    | Per leerling         | Voor opschrijven natuurgeluiden    |
@@ -117,8 +119,8 @@ Your browser does not support the audio element.
 
 | Onderdeel          | Activiteit                                                                 | Tijd   | Werkvorm       | Materialen               |
 |--------------------|---------------------------------------------------------------------------|--------|----------------|--------------------------|
-| **Introductie DAW**| Wat is een DAW? Voorbeelden: Ableton, GarageBand, BandLab. Luister naar een voorbeeldbeat. | 15 min | Klassikaal     | Laptop/iPad, projector/smartboard   |
-| **DAW verkennen**  | Leerlingen experimenteren met de DAW: <br> - Drumgeluiden selecteren. <br> - Eenvoudige beat maken (kick, snare, hi-hat). <br> - Ritme aanpassen (4/4, 3/4). | 20 min | Individueel    | Laptops/iPads, DAW, koptelefoons        |
+| **Introductie DAW**| Wat is een DAW? Voorbeelden: Ableton, GarageBand, BandLab. Luister naar een voorbeeldbeat. | 15 min | Klassikaal     | Laptop/Tablet, projector/smartboard   |
+| **DAW verkennen**  | Leerlingen experimenteren met de DAW: <br> - Drumgeluiden selecteren. <br> - Eenvoudige beat maken (kick, snare, hi-hat). <br> - Ritme aanpassen (4/4, 3/4). | 20 min | Individueel    | Laptops/Tablets, DAW, koptelefoons        |
 | **Beat delen**     | Leerlingen spelen hun beat af en bespreken: *"Wat vind je van je beat?"* | 15 min | Klassikaal     | -                        |
 | **Afsluiting**     | Bespreken: *"Hoe voelt het om met een DAW te werken?"* | 10 min  | Klassikaal     | -                        |
 
@@ -148,7 +150,7 @@ Your browser does not support the audio element.
 | **Introductie**    | *"Vandaag gaan we luisteren naar de natuur. Wat hoor je als je stilstaat?"* | 5 min  | Klassikaal     | -                        |
 | **Stiltewandeling**| Leerlingen lopen **5 minuten in stilte** en luisteren aandachtig. Daarna wisselen ze uit in groepjes. | 15 min | Groepswerk     | Notitieblok, pen         |
 | **Opname-opdracht**| - Opdracht 1: Leerlingen nemen **natuurgeluiden** op (vogels, wind, bladeren). - Opdracht 2: Leerlingen nemen geluiden op door zelf geluid te maken met **natuurmaterialen** (takken, stenen, modder). Voorafgaand aan de opdracht klassikaal stilstaan bij hoe je dit doet met respect voor de natuur. | 25 min | Individueel    | Zoom recorder, headphones|
-| **Terug in de klas**| Luisteren naar enkele opgenomen geluiden en bespreken: *"Welk geluid spreekt je aan?"* | 15 min | Klassikaal     | Laptop/iPad              |
+| **Terug in de klas**| Luisteren naar enkele opgenomen geluiden en bespreken: *"Welk geluid spreekt je aan?"* | 15 min | Klassikaal     | Laptop/Tablet              |
 
 #### 🔹 Tips voor de docent:
 - Kies een **rustige locatie** (bos/park) waar natuurgeluiden niet overstemd worden door andere geluiden, zoals verkeer.
@@ -173,10 +175,10 @@ Your browser does not support the audio element.
 
 | Onderdeel          | Activiteit                                                                 | Tijd   | Werkvorm       | Materialen               |
 |--------------------|---------------------------------------------------------------------------|--------|----------------|--------------------------|
-| **Introductie**    | *"Vandaag gebruiken we de opgenomen geluiden om een beat te maken."* | 5 min  | Klassikaal     | Laptop/iPad, DAW         |
-| **Geluiden selecteren** | Leerlingen kiezen **3-5 geluiden** om in hun beat te gebruiken. | 10 min | Individueel    | Laptops/iPads met DAW, Koptelefoons             |
+| **Introductie**    | *"Vandaag gebruiken we de opgenomen geluiden om een beat te maken."* | 5 min  | Klassikaal     | Laptop/Tablet, DAW         |
+| **Geluiden selecteren** | Leerlingen kiezen **3-5 geluiden** om in hun beat te gebruiken. | 10 min | Individueel    | Laptops/Tablets met DAW, Koptelefoons             |
 | **Beat maken**     | Leerlingen maken een beat in de DAW: <br> - Geluiden slepen. <br> - Ritme aanpassen (kick op tellen, snare op "en"). <br> - Geluiden bewerken (volume, herhalen, effecten). | 25 min | Individueel    | DAW, koptelefoons        |
-| **Beat presenteren** | Leerlingen spelen hun beat af en bespreken: *"Wat vind je van je beat?"* | 15 min | Klassikaal     | Laptop/iPad, speakers    |
+| **Beat presenteren** | Leerlingen spelen hun beat af en bespreken: *"Wat vind je van je beat?"* | 15 min | Klassikaal     | Laptop/Tablet, speakers    |
 | **Afsluiting**     | Klassikaal gesprek: *"Wat was het leukst? Wat vond je moeilijk?"* | 5 min  | Klassikaal     | -                        |
 
 #### 🔹 Tips voor de docent:
@@ -229,7 +231,7 @@ Your browser does not support the audio element.
 ## 💡 Tips voor de Docent
 #### Voorbereiding
 
-- Zorg dat de **Laptops**, **iPads**, en **recordingsapparatuur** vooraf zijn opgeladen.
+- Zorg dat de **Laptops**, **Tablets**, en **recordingsapparatuur** vooraf zijn opgeladen.
 - Zorg dat je van tevoren je hebt verdiept in de DAW naar keuze en hoe de recorders werken.
 - Test de **DAW** vooraf.
 - Kies een **rustige locatie** voor les 3 (bos/park) waar natuurgeluiden niet overstemd worden door andere geluiden, zoals verkeer.
