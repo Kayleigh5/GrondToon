@@ -52,7 +52,7 @@ Zie hier de volledige leskit: [Leskit Innerlijk Lied](/leskit/innerlijk_lied.md)
 
 ## Stemexpressie
 
-![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie.jpg)
+![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie-thefive.jpg)
 
 De leskit **Stemexpressie** helpt leerlingen ontdekken hoe ze hun stem kunnen gebruiken als krachtig instrument voor **expressie**, **zelfvertrouwen** en **verbinding**. In tegenstelling tot traditionele zanglessen ligt de nadruk niet op “mooi zingen”, maar op **durven klinken**: stevig, zacht, kwetsbaar, speels, krachtig - wat er maar in hen leeft. Door middel van ademhalingsoefeningen, lichaamswerk, vocale warming‑ups en het zingen van mantra’s en zelfgekozen liedjes, ervaren leerlingen hoe hun stem verbonden is met hun lichaam, emoties en innerlijke wereld.
 

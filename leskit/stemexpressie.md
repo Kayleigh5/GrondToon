@@ -6,7 +6,7 @@ order: 3
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
-![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie.jpg)
+![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie-thefive.jpg)
 
 - *Doelgroep:* 9–15 jaar  
 - *Duur:* 2–6 lessen (±60 minuten per les)  
@@ -31,9 +31,7 @@ Leerlingen leren:
 
 Voor sommige leerlingen is dit spannend - en juist daarom is Stemexpressie een veilige, speelse en opbouwende methode die hen stap voor stap begeleidt naar meer **zelfvertrouwen** en innerlijke kracht. Het leren durven laten horen van je stem is niet alleen waardevol binnen muziek, maar ook daarbuiten: in gesprekken, presentaties, sociale situaties en in het aangeven van je grenzen. Wie zijn stem durft te gebruiken, staat steviger in het leven.
 
-![Foto van een leerling die zingt in een microfoon](/assets/images/stemexpressie-microfoon.jpg)
-![Foto van een leerling die zingt en drumt tegelijk](/assets/images/stemexpressie-drum.jpg)
-
+![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie.jpg)
 ---
 
 ## 📌 Leerdoelen
@@ -63,6 +61,12 @@ Voor sommige leerlingen is dit spannend - en juist daarom is Stemexpressie een v
 
 Praktijkvoorbeelden met leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/).
 
+
+![Foto van een leerling die zingt in een microfoon](/assets/images/stemexpressie-microfoon.jpg)
+![Foto van een leerling die zingt en drumt tegelijk](/assets/images/stemexpressie-drum.jpg)
+![Foto van docent en leerlingen die op het gras zitten te zingen](/assets/images/stemexpressie-mantra.jpg)
+
+
 <br>
 Vocale warming up:
 
@@ -72,11 +76,6 @@ Vocale warming up:
 Zingen vanuit de buik: 
 
 <iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/VtsVkSGWZbc" title="GrondToon - Stemexpressie - Zingen vanuit de buik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br>
-Mantra's zingen: 
-
-![Foto van docent en leerlingen die op het gras zitten te zingen](/assets/images/stemexpressie-mantra.jpg)
 
 <br>
 Gehoortraining: 
