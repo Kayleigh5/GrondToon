@@ -1,6 +1,4 @@
-# **GrondToon** - **Natuurbeats**
-
-[Terug naar de GrondToon homepage](./index.html)
+# **Natuurbeats**
 
 - *Doelgroep:* 8-14 jaar
 - *Duur:* 4 lessen (±60 minuten per les)
