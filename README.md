@@ -22,11 +22,11 @@ Het ontdekken, voelen en laten horen van de innerlijke grondtoon is de kern van 
 
 De **GrondToon Klankbox** bestaat uit de volgende onderdelen:
 
-- Leskit <a href="#natuurbeats">Natuurbeats</a>
-- Leskit <a href="#stemexpressie">Innerlijk Lied</a>
-- Leskit <a href="#stemexpressie">Stemexpressie</a>
-- Leskit <a href="#stemexpressie">Intuitief Improviseren</a>
-- Extra: <a href="#stemexpressie">Bewegen op Muziek</a>
+- Leskit [Natuurbeats](/leskit/natuurbeats.md)
+- Leskit [Innerlijk Lied](/leskit/innerlijk_lied.md)
+- Leskit [Stemexpressie](/leskit/stemexpressie.md)
+- Leskit [Intuitief Improviseren](/leskit/intuitief_improviseren.md)
+- Extra: [Bewegen op Muziek](/leskit/bewegen_op_muziek.md)
 
 ---
 
@@ -42,7 +42,7 @@ Zie hier de volledige leskit: [Leskit Natuurbeats](/leskit/natuurbeats.md).
 
 ## Innerlijk Lied
 
-![Twee gitaarspelende leerlingen, en twee zingende leerlingen](/assets/images/innerlijklied-nora.jpg)
+![Foto van een leerling achter een keyboard](/assets/images/innerlijklied-keyboard.jpg)
 
 In mijn werk bij [Grond - school voor leven](https://grond-schoolvoorleven.nl/) kom ik regelmatig tegen hoe sterk **perfectionisme** leerlingen kan blokkeren: bij het schrijven van een eigen lied zijn er vaak volop ideeën, maar niets voelt goed of mooi genoeg om echt te delen. Met de leskit Innerlijk Lied ontdekken leerlingen dat muziek juist een plek is waar je **jezelf mag laten horen** - niet omdat het perfect moet zijn, maar omdat jouw binnenwereld ertoe doet. Ze leren eerst aandachtig luisteren naar bestaande liedjes om te voelen hoe structuur, sfeer en emotie samenwerken, verkennen daarna de **Innerlijk‑Lied‑kaartenset** die hen uitnodigt om hun eigen ervaringen, beelden en gevoelens te vertalen naar woorden, en geven die woorden vervolgens klank en vorm met stem of instrument. Met GrondToon Innerlijk Lied laat ik hun muzikale creativiteit stromen door een **speels** maar gestructureerd kader te bieden: door willekeurig kaarten te trekken - onderwerp, symboliek, sfeer, muzikaal kader en eventueel een anti‑perfectionisme‑kaart - ontstaat een unieke creatieve opdracht die hen helpt 4–12 regels spoken word of zang te maken. De kaarten fungeren als zachte duwtjes richting **expressie**, terwijl leerlingen expliciet leren dat imperfecties geen fout zijn maar een **waardevolle artistieke keuze**. Zo ervaart elke leerling dat hun innerlijke wereld het waard is om gehoord te worden.
 
@@ -52,7 +52,7 @@ Zie hier de volledige leskit: [Leskit Innerlijk Lied](/leskit/innerlijk_lied.md)
 
 ## Stemexpressie
 
-![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie.jpg)
+![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie-thefive.jpg)
 
 De leskit **Stemexpressie** helpt leerlingen ontdekken hoe ze hun stem kunnen gebruiken als krachtig instrument voor **expressie**, **zelfvertrouwen** en **verbinding**. In tegenstelling tot traditionele zanglessen ligt de nadruk niet op “mooi zingen”, maar op **durven klinken**: stevig, zacht, kwetsbaar, speels, krachtig - wat er maar in hen leeft. Door middel van ademhalingsoefeningen, lichaamswerk, vocale warming‑ups en het zingen van mantra’s en zelfgekozen liedjes, ervaren leerlingen hoe hun stem verbonden is met hun lichaam, emoties en innerlijke wereld.
 

@@ -6,7 +6,7 @@ order: 2
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
-![Foto van vijf leerlingen die buiten dansen](/assets/images/innerlijklied-nora.jpg)
+![Foto van een leerling achter een keyboard](/assets/images/innerlijklied-keyboard.jpg)
 
 - *Doelgroep:* 9–15 jaar  
 - *Duur:* 4 lessen (±60 minuten per les)  
@@ -87,6 +87,10 @@ Daar kwam de volgende tekst uit:
 <iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/VXjrKOjEiMY" title="Innerlijk Lied kaartenset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/hSdXJEbD8JE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+![Foto van vijf leerlingen die een bandje zijn](/assets/images/innerlijklied-nora.jpg)
 
 <br>
 
