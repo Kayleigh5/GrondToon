@@ -4,11 +4,13 @@
 @import "{{ site.theme }}";
 
 html {
-	scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
-section h1,h2,h3 {
-	scroll-margin-top: 65px;
+section h1,
+h2,
+h3 {
+  scroll-margin-top: 65px;
 }
 
 header {
@@ -121,7 +123,8 @@ section {
   margin-top: 25px;
 }
 
-section img, section {
+section img,
+section {
   border-radius: 8px;
 }
 
@@ -133,7 +136,6 @@ section img, section {
 }
 
 @media print, screen and (max-width: 720px) {
-  
   header h1 {
     font-size: 40px;
   }
@@ -168,4 +170,13 @@ nav {
 table {
   overflow-x: scroll;
   display: block;
+}
+
+nav ul li.tag-h2 {
+  font-size: 1.2em;
+}
+
+nav ul li.tag-h2 a {
+  font-weight: bold;
+  color: #333;
 }

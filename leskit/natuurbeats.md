@@ -2,7 +2,7 @@
 order: 1
 ---
 
-# Natuurbeats
+## Natuurbeats
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
@@ -16,7 +16,7 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-## 🌳 Kern van Natuurbeats
+### 🌳 Kern van Natuurbeats
 
 De leskit Natuurbeats is een creatief en holistisch muziekproject voor leerlingen, gericht op het **verbinden met de natuur**, muziek en aandachtig luisteren. Gedurende vier lessen leren leerlingen niet alleen **muzikale ritmes** en het gebruik van een **DAW** (Digital Audio Workstation, zoals Ableton), maar ook om met volle **aandacht** de natuur in te gaan, **natuurgeluiden** op te nemen en deze om te zetten in **unieke beats**. Door stil te staan in de natuur, geluiden bewust op te nemen en deze vervolgens creatief te bewerken, ontdekken ze hoe muziek en omgeving met elkaar verweven zijn. Het project stimuleert niet alleen technisch en muzikaal ritmisch inzicht, maar ook een diepere **verbinding** met de wereld om hen heen, waarbij **creativiteit** en **samenwerking** centraal staan.
 
@@ -25,7 +25,7 @@ De leskit Natuurbeats is een creatief en holistisch muziekproject voor leerlinge
 ---
 
 
-## 📌 Leerdoelen
+### 📌 Leerdoelen
 1. Leerlingen kunnen met **aandacht** in de natuur zijn, **aandachtig luisteren** naar natuurgeluiden en deze ervaringen uitwisselen.
 2. Leerlingen kunnen **muzikale ritmische concepten** toepassen (4/4 vs. 3/4 en diverse nootlengtes).
 3. Leerlingen kunnen een **beat maken** met behulp van een DAW (Digital Audio Workstation).
@@ -35,7 +35,7 @@ De leskit Natuurbeats is een creatief en holistisch muziekproject voor leerlinge
 
 ---
 
-## 📚 Materialen
+### 📚 Materialen
 ![Opnameapparatuur natuurbeats](/assets/images/natuurbeats-materialen.jpg)
 
 #### Fysieke materialen
@@ -66,7 +66,7 @@ De volgende materialen zijn onderdeel van de GrondToon Klankbox:
 ---
 
 
-## 🎧 Voorbeelden uit de praktijk
+### 🎧 Voorbeelden uit de praktijk
 
 ![Foto van leerling die geluiden in het bos opneemt](/assets/images/natuurbeats-opname2.jpg)
 
@@ -95,11 +95,11 @@ Your browser does not support the audio element.
 
 <br>
 
-# 📅 Lesopbouw
+## 📅 Lesopbouw
 
 ---
 
-## 🎵 Les 1: Ritmische Concepten
+### 🎵 Les 1: Ritmische Concepten
 <iframe style="width: 100%; height:400px;" src="https://www.youtube-nocookie.com/embed/kALzvJpNpWw" title="Musical notes and rhythms 🎻🎹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 **Doel:** Basisprincipes van ritme leren en toepassen.
 
@@ -123,7 +123,7 @@ Your browser does not support the audio element.
 
 <br>
 
-## 🎛️ Les 2: Beat Maken met een DAW
+### 🎛️ Les 2: Beat Maken met een DAW
 ![Twee leerlingen werken op een computer](/assets/images/natuurbeats-daw2.jpg)
 **Doel:** Kennismaken met een DAW en een eenvoudige beat maken.
 
@@ -151,7 +151,7 @@ Your browser does not support the audio element.
 
 <br>
 
-## 🌳 Les 3: Natuurgeluiden Opnemen in het Bos
+### 🌳 Les 3: Natuurgeluiden Opnemen in het Bos
 ![Een leerling maakt een geluidsopname bij een boom](/assets/images/natuurbeats-opname.jpg)
 **Doel:** Aandachtig luisteren en natuurgeluiden opnemen.
 
@@ -179,7 +179,7 @@ Your browser does not support the audio element.
 
 <br>
 
-## 🎚️ Les 4: Natuurgeluiden in de DAW
+### 🎚️ Les 4: Natuurgeluiden in de DAW
 ![Twee leerlingen werken op een computer](/assets/images/natuurbeats-daw.jpg)
 **Doel:** Beat maken met opgenomen natuurgeluiden.
 
@@ -209,7 +209,7 @@ Your browser does not support the audio element.
 <br>
 
 
-## 📊 Evaluatie
+### 📊 Evaluatie
 
 | Les  | Evaluatiemoment                          | Methode                          |
 |------|------------------------------------------|----------------------------------|
@@ -224,7 +224,7 @@ Your browser does not support the audio element.
 
 <br>
 
-## 🔗 Link met andere GrondToon-Leskits
+### 🔗 Link met andere GrondToon-Leskits
 
 | Leskit                  | Link met Natuurbeats                     |
 |-------------------------|------------------------------------------|
@@ -238,7 +238,7 @@ Your browser does not support the audio element.
 
 <br>
 
-## 💡 Tips voor de Docent
+### 💡 Tips voor de Docent
 #### Voorbereiding
 
 - Zorg dat de **Laptops**, **Tablets**, en **recordingsapparatuur** vooraf zijn opgeladen.

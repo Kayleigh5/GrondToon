@@ -2,7 +2,7 @@
 order: 4
 ---
 
-# Intuïtief Improviseren
+## Intuïtief Improviseren
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
@@ -16,7 +16,7 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-## 🌳 Kern van Intuïtief Improviseren
+### 🌳 Kern van Intuïtief Improviseren
 
 Intuïtief improviseren is een speelse, vrije en diep muzikale manier van leren. Waar bestaande stukken vaak veel **hoofdwerk** vragen - noten lezen, techniek, structuur - nodigt improvisatie leerlingen uit om te spelen vanuit **gevoel**, **intuïtie** en **aanwezigheid**.  
 
@@ -37,7 +37,7 @@ Improvisatie is een waardevolle vaardigheid - niet alleen in muziek, maar ook in
 
 ---
 
-## 📌 Leerdoelen
+### 📌 Leerdoelen
 
 1. Leerlingen kunnen intuïtief melodieën spelen of zingen over herhalende akkoorden.  
 2. Leerlingen durven muzikaal te experimenteren zonder oordeel.  
@@ -49,7 +49,7 @@ Improvisatie is een waardevolle vaardigheid - niet alleen in muziek, maar ook in
 
 ---
 
-## 📚 Materialen
+### 📚 Materialen
 
 #### Fysiek
 - Piano of keyboard  
@@ -62,7 +62,7 @@ Improvisatie is een waardevolle vaardigheid - niet alleen in muziek, maar ook in
 
 ---
 
-## 🎧 Voorbeelden uit de praktijk
+### 🎧 Voorbeelden uit de praktijk
 
 Praktijkvoorbeelden met leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/).
 
@@ -79,13 +79,13 @@ Praktijkvoorbeelden met leerlingen van [Grond - school voor leven](https://grond
 
 ---
 
-# 📅 Lesopbouw
+## 📅 Lesopbouw
 
 De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te breiden tot een doorlopend onderdeel van muzieklessen.
 
 ---
 
-## 🎵 Les 1: Spelen vanuit Gevoel & Eerste Improvisatie
+### 🎵 Les 1: Spelen vanuit Gevoel & Eerste Improvisatie
 
 **Doel:** Leerlingen ervaren hoe het is om vrij te spelen over herhalende akkoorden en leren variëren met muzikale elementen.
 
@@ -107,7 +107,7 @@ De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te bre
 
 ---
 
-## 🎶 Les 2: Muzikale Communicatie & Samenspel
+### 🎶 Les 2: Muzikale Communicatie & Samenspel
 
 **Doel:** Leerlingen leren communiceren via muziek, reageren op anderen en zelf initiatieven nemen - individueel, in duo’s of met de hele klas.
 
@@ -129,7 +129,7 @@ De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te bre
 
 ---
 
-## 📊 Evaluatie
+### 📊 Evaluatie
 
 | Moment | Wat wordt beoordeeld | Methode |
 |--------|----------------------|---------|
@@ -139,7 +139,7 @@ De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te bre
 
 ---
 
-## 🔗 Link met andere GrondToon‑leskits
+### 🔗 Link met andere GrondToon‑leskits
 
 | Leskit | Link |
 |--------|------|
@@ -149,9 +149,9 @@ De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te bre
 
 ---
 
-## 💡 Tips voor de docent
+### 💡 Tips voor de docent
 
-### Voorbereiding
+#### Voorbereiding
 - Kies eenvoudige akkoorden (bijv. Am – G – C – F).  
 - Creëer een veilige sfeer waarin fouten welkom zijn.  
 

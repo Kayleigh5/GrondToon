@@ -2,7 +2,7 @@
 order: 3
 ---
 
-# Stemexpressie
+## Stemexpressie
 
 Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief product, ontwikkeld door [Kayleigh Beard](https://kayleighbeard.nl/), in samenwerking met [Grond - school voor leven](https://grond-schoolvoorleven.nl/) en [Compenta](https://compenta.nl/). 
 
@@ -16,7 +16,7 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-## 🌳 Kern van Stemexpressie
+### 🌳 Kern van Stemexpressie
 
 De leskit **Stemexpressie** helpt leerlingen ontdekken hoe ze hun stem kunnen gebruiken als krachtig instrument voor **expressie**, **zelfvertrouwen** en **verbinding**. In tegenstelling tot traditionele zanglessen ligt de nadruk niet op “mooi zingen”, maar op **durven klinken**: stevig, zacht, kwetsbaar, speels, krachtig - wat er maar in hen leeft. Door middel van ademhalingsoefeningen, lichaamswerk, vocale warming‑ups en het zingen van mantra’s en zelfgekozen liedjes, ervaren leerlingen hoe hun stem verbonden is met hun lichaam, emoties en innerlijke wereld.
 
@@ -34,7 +34,7 @@ Voor sommige leerlingen is dit spannend - en juist daarom is Stemexpressie een v
 ![Foto van docent en leerling die zingen bij de piano](/assets/images/stemexpressie.jpg)
 ---
 
-## 📌 Leerdoelen
+### 📌 Leerdoelen
 
 1. Leerlingen kunnen **buikademhaling** toepassen tijdens zingen en spreken.  
 2. Leerlingen kunnen **spanning** in kaak, schouders en lichaam herkennen en verminderen.  
@@ -47,7 +47,7 @@ Voor sommige leerlingen is dit spannend - en juist daarom is Stemexpressie een v
 
 ---
 
-## 📚 Materialen
+### 📚 Materialen
 
 - Piano, keyboard en eventueel gitaar
 - Genoeg ruimte voor lichaamswerk  
@@ -57,7 +57,7 @@ Voor sommige leerlingen is dit spannend - en juist daarom is Stemexpressie een v
 
 ---
 
-## 🎧 Voorbeelden uit de praktijk
+### 🎧 Voorbeelden uit de praktijk
 
 Praktijkvoorbeelden met leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/).
 
@@ -91,14 +91,14 @@ Meerstemmig zingen:
 
 ---
 
-# 📅 Lesopbouw
+## 📅 Lesopbouw
 
 De leskit kan in **2 tot 6 lessen** worden gegeven.  
 Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 🎵 Les 1: Ademhaling, Lichaam & Stem Durven Gebruiken
+### 🎵 Les 1: Ademhaling, Lichaam & Stem Durven Gebruiken
 
 **Doel:** Leerlingen ervaren hoe ademhaling, lichaam en stem samenwerken. Ze leren basis‑oefeningen en zingen gezamenlijk een eenvoudige mantra.
 
@@ -119,7 +119,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 🎤 Les 2: Liedkeuze, Betekenis & Eerste Uitvoering
+### 🎤 Les 2: Liedkeuze, Betekenis & Eerste Uitvoering
 
 **Doel:** Leerlingen kiezen een lied, onderzoeken de betekenis en zingen een eerste versie.
 
@@ -140,7 +140,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 🎶 Les 3: Techniek & Variatie: Dynamiek, Resonantie, Kracht
+### 🎶 Les 3: Techniek & Variatie: Dynamiek, Resonantie, Kracht
 
 **Doel:** Leerlingen verdiepen hun stemgebruik en experimenteren met expressie.
 
@@ -161,7 +161,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 🎼 Les 4: Meerstemmigheid & Gehoor (gevorderd)
+### 🎼 Les 4: Meerstemmigheid & Gehoor (gevorderd)
 
 **Doel:** Leerlingen trainen hun muzikaal gehoor én oefenen een eenvoudige meerstemmige passage. Ze leren bij hun eigen melodielijn blijven, ook wanneer anderen iets anders zingen.
 
@@ -196,7 +196,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 🎤 Les 5: Vrij Zingen & Experimenteren
+### 🎤 Les 5: Vrij Zingen & Experimenteren
 
 **Doel:** Leerlingen ontdekken nieuwe klankmogelijkheden en durven te spelen met hun stem.
 
@@ -212,7 +212,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 🎙️ Les 6: Presenteren & Reflecteren
+### 🎙️ Les 6: Presenteren & Reflecteren
 
 **Doel:** Leerlingen presenteren hun lied en reflecteren op hun groei.
 
@@ -234,7 +234,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 📊 Evaluatie
+### 📊 Evaluatie
 
 | Moment | Wat wordt beoordeeld | Methode |
 |--------|----------------------|---------|
@@ -245,7 +245,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 🔗 Link met andere GrondToon‑leskits
+### 🔗 Link met andere GrondToon‑leskits
 
 | Leskit | Link |
 |--------|------|
@@ -255,7 +255,7 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-## 💡 Tips voor de docent
+### 💡 Tips voor de docent
 
 #### Voorbereiding
 - Creëer een **veilige sfeer**: geen oordeel, alleen nieuwsgierigheid.  
