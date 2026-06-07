@@ -16,9 +16,9 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ---
 
-## 📌 Kern van Intuïtief Improviseren
+## 🌳 Kern van Intuïtief Improviseren
 
-Intuïtief improviseren is een speelse, vrije en diep muzikale manier van leren. Waar bestaande stukken vaak veel **hoofdwerk** vragen — noten lezen, techniek, structuur — nodigt improvisatie leerlingen uit om te spelen vanuit **gevoel**, **intuïtie** en **aanwezigheid**.  
+Intuïtief improviseren is een speelse, vrije en diep muzikale manier van leren. Waar bestaande stukken vaak veel **hoofdwerk** vragen - noten lezen, techniek, structuur - nodigt improvisatie leerlingen uit om te spelen vanuit **gevoel**, **intuïtie** en **aanwezigheid**.  
 
 De docent speelt herhalende akkoorden of een eenvoudige groove, en de leerling laat daar een melodie over ontstaan. Soms wisselen docent en leerling van rol. In grotere groepen kunnen leerlingen ook **in duo’s** of **met de hele klas** improviseren, waarbij ze op elkaar reageren zonder woorden.
 
@@ -31,7 +31,10 @@ Improviseren vraagt om:
 
 Leerlingen ontdekken dat muziek een vorm van **communicatie** is: als iemand ineens heel zacht speelt, reageer je daarop; als iemand krachtig inzet, speel je mee of zet je daar iets tegenover. Zo leren ze niet alleen muzikaliteit, maar ook sociale vaardigheden zoals **afstemmen**, **assertiviteit**, **samenwerking** en **aanvoelen wat er nodig is**.
 
-Improvisatie is een waardevolle vaardigheid — niet alleen in muziek, maar ook in het leven. Het leert leerlingen flexibel zijn, risico’s nemen, creatief denken en vertrouwen op hun eigen innerlijke kompas.
+Improvisatie is een waardevolle vaardigheid - niet alleen in muziek, maar ook in het leven. Het leert leerlingen flexibel zijn, risico’s nemen, creatief denken en vertrouwen op hun eigen innerlijke kompas.
+
+![Foto van twee leerlingen achter de piano met accordeon](/assets/images/intuitiefimproviseren-accordeon.jpg)
+![Foto van docent en leerling die gitaar spelen](/assets/images/intuitiefimproviseren-gitaar.jpg)
 
 ---
 
@@ -60,13 +63,27 @@ Improvisatie is een waardevolle vaardigheid — niet alleen in muziek, maar ook 
 
 ---
 
+## 🎧 Voorbeelden uit de praktijk
+
+Praktijkvoorbeelden met leerlingen van [Grond - school voor leven](https://grond-schoolvoorleven.nl/).
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/9H_OrjLdps0" title="GrondToon - Intuïtief Improviseren" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/j6EDY-Hw3UA" title="GrondToon - Intuitiefimproviseren - Harp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/6ySB419nC8c" title="GrondToon - Intuitiefimproviseren - Accordeon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width: 100%; height:300px" src="https://www.youtube-nocookie.com/embed/cAklJpv6pPE" title="GrondToon - Intuïtief Improviseren - Piano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # 📅 Lesopbouw
 
 De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te breiden tot een doorlopend onderdeel van muzieklessen.
 
 ---
 
-## 🎵 Les 1 — Spelen vanuit Gevoel & Eerste Improvisatie
+## 🎵 Les 1: Spelen vanuit Gevoel & Eerste Improvisatie
 
 **Doel:** Leerlingen ervaren hoe het is om vrij te spelen over herhalende akkoorden en leren variëren met muzikale elementen.
 
@@ -88,9 +105,9 @@ De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te bre
 
 ---
 
-## 🎶 Les 2 — Muzikale Communicatie & Samenspel
+## 🎶 Les 2: Muzikale Communicatie & Samenspel
 
-**Doel:** Leerlingen leren communiceren via muziek, reageren op anderen en zelf initiatieven nemen — individueel, in duo’s of met de hele klas.
+**Doel:** Leerlingen leren communiceren via muziek, reageren op anderen en zelf initiatieven nemen - individueel, in duo’s of met de hele klas.
 
 #### Onderdeel & Activiteit
 
@@ -137,9 +154,10 @@ De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te bre
 - Creëer een veilige sfeer waarin fouten welkom zijn.  
 
 #### Tijdens de les
-- Gebruik zinnen als:  
+- Creëer een veilige sfeer:  
   *“Laat je handen het werk doen.”*  
-  *“Je hoeft niet te weten wat je gaat spelen — speel maar.”*  
+  *“Je hoeft niet te weten wat je gaat spelen”* 
+  *“Niets is fout, durf te experimenteren”*   
 - Let op spanning in schouders en handen.  
 - Moedig luisteren en reageren aan.  
 - Bij grote groepen: zorg dat iedereen **korte beurten** krijgt en dat er duidelijke structuur is.
