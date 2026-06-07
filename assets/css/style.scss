@@ -64,12 +64,14 @@ header p {
   background: #f0b500;
 }
 
-#dropdown-menu {
-  display: none;
+.menu li a:hover {
+  background: #fed326;
 }
 
-body.drop #dropdown-menu {
-  display: flex;
+#dropdown-menu {
+  transform: scaleY(0);
+  transform-origin: top center;
+  transition: transform 0.5s;
   position: absolute;
   width: 100%;
   left: 0;
@@ -77,6 +79,23 @@ body.drop #dropdown-menu {
   background: #fc0;
   padding: 10px 0;
   box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
+}
+
+body.drop #dropdown-menu {
+  transform: scaleY(1);
+}
+
+#dropdown-menu > * {
+  opacity: 0;
+  transition-property: opacity;
+  transition-timing-function: ease;
+  transition-duration: 250ms; /* default = collapse (out) */
+}
+
+/* when opening: set longer duration */
+body.drop #dropdown-menu > * {
+  opacity: 1;
+  transition-duration: 1s; /* used for the transition to this state */
 }
 
 strong {
@@ -101,7 +120,6 @@ section {
 }
 
 @media print, screen and (max-width: 720px) {
-
   header p {
     display: block;
     font-size: 14px;
