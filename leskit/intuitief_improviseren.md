@@ -18,16 +18,18 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ### 🌳 De kern
 
-Intuïtief improviseren is een speelse, vrije en diep muzikale manier van leren. Waar bestaande stukken vaak veel **hoofdwerk** vragen - noten lezen, techniek, structuur - nodigt improvisatie leerlingen uit om te spelen vanuit **gevoel**, **intuïtie** en **aanwezigheid**.  
+Intuïtief improviseren is een speelse en vrije manier van muziek maken. Waar bestaande stukken instuderen vaak veel **hoofdwerk** vragen - noten lezen, techniek, structuur - nodigt improvisatie leerlingen uit om te spelen vanuit **gevoel**, **intuïtie** en **aanwezigheid**.  
 
 De docent speelt herhalende akkoorden of een eenvoudige groove, en de leerling laat daar een melodie over ontstaan. Soms wisselen docent en leerling van rol. In grotere groepen kunnen leerlingen ook **in duo’s** of **met de hele klas** improviseren, waarbij ze op elkaar reageren zonder woorden.
 
 Improviseren vraagt om:
 
-- **durven loslaten**  
-- **durven proberen**  
-- **durven klinken**  
-- **durven luisteren**  
+- **perfectie loslaten** 
+- **durven proberen**
+- **durven klinken**
+- **naar elkaar luisteren**
+- **ruimte durven innemen**
+- **op elkaar afstemmen**
 
 Leerlingen ontdekken dat muziek een vorm van **communicatie** is: als iemand ineens heel zacht speelt, reageer je daarop; als iemand krachtig inzet, speel je mee of zet je daar iets tegenover. Zo leren ze niet alleen muzikaliteit, maar ook sociale vaardigheden zoals **afstemmen**, **assertiviteit**, **samenwerking** en **aanvoelen wat er nodig is**.
 
@@ -170,5 +172,5 @@ De leskit kan in **1 tot 2 lessen** worden gegeven, maar is eenvoudig uit te bre
 
 ---
 
-**📌 Laatste update:** *20 mei 2026*  
+**📌 Laatste update:** *12 juni 2026*  
 **📌 Versie:** 1.1 (met klasvariant)

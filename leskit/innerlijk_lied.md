@@ -18,7 +18,9 @@ Deze leskit is onderdeel van [GrondToon](./README.md), een cultuureducatief prod
 
 ### 🌳 De kern
 
-In mijn werk bij [Grond - school voor leven](https://grond-schoolvoorleven.nl/) kom ik regelmatig tegen hoe sterk **perfectionisme** leerlingen kan blokkeren: bij het schrijven van een eigen lied zijn er vaak volop ideeën, maar niets voelt goed of mooi genoeg om echt te delen. Met de leskit Innerlijk Lied ontdekken leerlingen dat muziek juist een plek is waar je **jezelf mag laten horen** - niet omdat het perfect moet zijn, maar omdat jouw binnenwereld ertoe doet. Ze leren eerst aandachtig luisteren naar bestaande liedjes om te voelen hoe structuur, sfeer en emotie samenwerken, verkennen daarna de **Innerlijk‑Lied‑kaartenset** die hen uitnodigt om hun eigen ervaringen, beelden en gevoelens te vertalen naar woorden, en geven die woorden vervolgens klank en vorm met stem of instrument. Met GrondToon Innerlijk Lied laat ik hun muzikale creativiteit stromen door een **speels** maar gestructureerd kader te bieden: door willekeurig kaarten te trekken - onderwerp, symboliek, sfeer, muzikaal kader en eventueel een anti‑perfectionisme‑kaart - ontstaat een unieke creatieve opdracht die hen helpt 4–12 regels spoken word of zang te maken. De kaarten fungeren als zachte duwtjes richting **expressie**, terwijl leerlingen expliciet leren dat imperfecties geen fout zijn maar een **waardevolle artistieke keuze**. Zo ervaart elke leerling dat hun innerlijke wereld het waard is om gehoord te worden.
+In mijn werk bij [Grond - school voor leven](https://grond-schoolvoorleven.nl/) kom ik regelmatig tegen hoe sterk **perfectionisme** leerlingen kan blokkeren: bij het schrijven van een eigen lied zijn er vaak volop ideeën, maar niets voelt goed of mooi genoeg om echt te delen. Met de leskit Innerlijk Lied ontdekken leerlingen dat muziek juist een plek is waar je **jezelf mag laten horen** - niet omdat het perfect moet zijn, maar omdat jouw binnenwereld ertoe doet. Ze leren eerst aandachtig luisteren naar bestaande liedjes om te voelen hoe structuur, sfeer en emotie samenwerken, verkennen daarna de **Innerlijk‑Lied‑kaartenset** die hen uitnodigt om hun eigen ervaringen, beelden en gevoelens te vertalen naar woorden, en geven die woorden vervolgens klank en vorm met stem of instrument. 
+
+Met GrondToon Innerlijk Lied laat ik hun muzikale creativiteit stromen door een **speels** maar gestructureerd kader te bieden: door willekeurig kaarten te trekken - onderwerp, symboliek, sfeer, muzikaal kader en eventueel een anti‑perfectionisme‑kaart - ontstaat een unieke creatieve opdracht die hen helpt 4–12 regels spoken word of zang te maken. De kaarten fungeren als zachte duwtjes richting **expressie**, terwijl leerlingen expliciet leren dat imperfecties geen fout zijn maar een **waardevolle artistieke keuze**. Zo ervaart elke leerling dat hun innerlijke wereld het waard is om gehoord te worden.
 
 Het Innerlijk Lied is een **holistische en speelse methode** om leerlingen hun eigen korte lied (4–12 regels) te laten schrijven. Niet vanuit “het moet mooi klinken”, maar vanuit:
 
@@ -353,5 +355,5 @@ Voorbeelden:
 <br>
 
 
-**📌 Laatste update:** *20 mei 2026*
+**📌 Laatste update:** *12 juni 2026*
 **📌 Versie:** 1.0

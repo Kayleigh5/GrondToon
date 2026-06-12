@@ -276,5 +276,5 @@ Les 1 en 2 vormen de basis; de overige lessen zijn variaties en verdieping.
 
 ---
 
-**📌 Laatste update:** *20 mei 2026*  
+**📌 Laatste update:** *12 juni 2026*  
 **📌 Versie:** 1.0

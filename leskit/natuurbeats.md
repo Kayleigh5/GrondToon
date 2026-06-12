@@ -265,5 +265,5 @@ Your browser does not support the audio element.
 
 
 
-**📌 Laatste update:** *20 mei 2026*
+**📌 Laatste update:** *12 juni 2026*
 **📌 Versie:** 1.0
